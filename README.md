@@ -61,9 +61,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `[`: pop a pose from the stack, turn 45° to the right
 
 ### Results
-<img src="resource/binary_tree_0.png" width=47%><img src="resource/binary_tree_1.png" width=47%>
-<img src="resource/binary_tree_2.png" width=47%><img src="resource/binary_tree_3.png" width=47%>
-<img src="resource/binary_tree_4.png" width=47%><img src="resource/binary_tree_5.png" width=47%>
+<img src="resource/binary_tree_0.png" width=48%><img src="resource/binary_tree_1.png" width=48%>
+<img src="resource/binary_tree_2.png" width=48%><img src="resource/binary_tree_3.png" width=48%>
+<img src="resource/binary_tree_4.png" width=48%><img src="resource/binary_tree_5.png" width=48%>
 
 ## 4. Cantor set
 [reference](https://en.wikipedia.org/wiki/L-system#Example_3:_Cantor_set), [code](demo/cantor_set.py)
@@ -79,12 +79,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `B`: go forward without drawing
 
 ### Results
-<img src="resource/cantor_set_0.png" width=47%>
-<img src="resource/cantor_set_1.png" width=47%>
-<img src="resource/cantor_set_2.png" width=47%>
-<img src="resource/cantor_set_3.png" width=47%>
-<img src="resource/cantor_set_4.png" width=47%>
-<img src="resource/cantor_set_5.png" width=47%>
+<img src="resource/cantor_set_0.png" width=48%><img src="resource/cantor_set_1.png" width=48%>
+<img src="resource/cantor_set_2.png" width=48%><img src="resource/cantor_set_3.png" width=48%>
+<img src="resource/cantor_set_4.png" width=48%><img src="resource/cantor_set_5.png" width=48%>
 
 ## 5. Variants of the Koch curve
 [reference1](https://en.wikipedia.org/wiki/L-system#Example_4:_Koch_curve), [reference2](https://en.wikipedia.org/wiki/Koch_snowflake)
@@ -103,12 +100,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/koch_snowflake_0.png" width=47%>
-<img src="resource/koch_snowflake_1.png" width=47%>
-<img src="resource/koch_snowflake_2.png" width=47%>
-<img src="resource/koch_snowflake_3.png" width=47%>
-<img src="resource/koch_snowflake_4.png" width=47%>
-<img src="resource/koch_snowflake_5.png" width=47%>
+<img src="resource/koch_snowflake_0.png" width=48%><img src="resource/koch_snowflake_1.png" width=48%>
+<img src="resource/koch_snowflake_2.png" width=48%><img src="resource/koch_snowflake_3.png" width=48%>
+<img src="resource/koch_snowflake_4.png" width=48%><img src="resource/koch_snowflake_5.png" width=48%>
 
 ### 5-2. Quadratic type 1 curve
 #### L-system
@@ -123,12 +117,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/koch_quadratic_1_0.png" width=47%>
-<img src="resource/koch_quadratic_1_1.png" width=47%>
-<img src="resource/koch_quadratic_1_2.png" width=47%>
-<img src="resource/koch_quadratic_1_3.png" width=47%>
-<img src="resource/koch_quadratic_1_4.png" width=47%>
-<img src="resource/koch_quadratic_1_5.png" width=47%>
+<img src="resource/koch_quadratic_1_0.png" width=48%><img src="resource/koch_quadratic_1_1.png" width=48%>
+<img src="resource/koch_quadratic_1_2.png" width=48%><img src="resource/koch_quadratic_1_3.png" width=48%>
+<img src="resource/koch_quadratic_1_4.png" width=48%><img src="resource/koch_quadratic_1_5.png" width=48%>
 
 ### 5-3. Quadratic type 2 curve (Minkowski sausage)
 #### L-system
@@ -143,12 +134,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/koch_quadratic_2_0.png" width=47%>
-<img src="resource/koch_quadratic_2_1.png" width=47%>
-<img src="resource/koch_quadratic_2_2.png" width=47%>
-<img src="resource/koch_quadratic_2_3.png" width=47%>
-<img src="resource/koch_quadratic_2_4.png" width=47%>
-<img src="resource/koch_quadratic_2_5.png" width=47%>
+<img src="resource/koch_quadratic_2_0.png" width=48%><img src="resource/koch_quadratic_2_1.png" width=48%>
+<img src="resource/koch_quadratic_2_2.png" width=48%><img src="resource/koch_quadratic_2_3.png" width=48%>
+<img src="resource/koch_quadratic_2_4.png" width=48%><img src="resource/koch_quadratic_2_5.png" width=48%>
 
 ## 6. Variants of the Sierpiński triangle
 [reference1](https://en.wikipedia.org/wiki/L-system#Example_5:_Sierpinski_triangle), [reference2](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_curve)
@@ -169,12 +157,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 120° to the right
 
 #### Results
-<img src="resource/sierpinski_triangle_0.png" width=47%>
-<img src="resource/sierpinski_triangle_1.png" width=47%>
-<img src="resource/sierpinski_triangle_2.png" width=47%>
-<img src="resource/sierpinski_triangle_3.png" width=47%>
-<img src="resource/sierpinski_triangle_4.png" width=47%>
-<img src="resource/sierpinski_triangle_5.png" width=47%>
+<img src="resource/sierpinski_triangle_0.png" width=48%><img src="resource/sierpinski_triangle_1.png" width=48%>
+<img src="resource/sierpinski_triangle_2.png" width=48%><img src="resource/sierpinski_triangle_3.png" width=48%>
+<img src="resource/sierpinski_triangle_4.png" width=48%><img src="resource/sierpinski_triangle_5.png" width=48%>
 
 ### 6-2. Sierpiński arrowhead curve
 [code](demo/sierpinski_arrowhead_curve_1.py)
@@ -192,12 +177,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 60° to the right
 
 #### Results
-<img src="resource/sierpinski_arrowhead_curve_1_0.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_1_1.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_1_2.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_1_3.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_1_4.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_1_5.png" width=47%>
+<img src="resource/sierpinski_arrowhead_curve_1_0.png" width=48%><img src="resource/sierpinski_arrowhead_curve_1_1.png" width=48%>
+<img src="resource/sierpinski_arrowhead_curve_1_2.png" width=48%><img src="resource/sierpinski_arrowhead_curve_1_3.png" width=48%>
+<img src="resource/sierpinski_arrowhead_curve_1_4.png" width=48%><img src="resource/sierpinski_arrowhead_curve_1_5.png" width=48%>
 
 ### 6-3. Sierpiński arrowhead curve (alternative construction)
 [code](demo/sierpinski_arrowhead_curve_2.py)
@@ -216,12 +198,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 60° to the right
 
 #### Results
-<img src="resource/sierpinski_arrowhead_curve_2_0.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_2_1.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_2_2.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_2_3.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_2_4.png" width=47%>
-<img src="resource/sierpinski_arrowhead_curve_2_5.png" width=47%>
+<img src="resource/sierpinski_arrowhead_curve_2_0.png" width=48%><img src="resource/sierpinski_arrowhead_curve_2_1.png" width=48%>
+<img src="resource/sierpinski_arrowhead_curve_2_2.png" width=48%><img src="resource/sierpinski_arrowhead_curve_2_3.png" width=48%>
+<img src="resource/sierpinski_arrowhead_curve_2_4.png" width=48%><img src="resource/sierpinski_arrowhead_curve_2_5.png" width=48%>
 
 ## 7. Variants of the Sierpiński curve
 [reference1](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_curve), [reference2](https://math.stackexchange.com/questions/3393187)
@@ -242,12 +221,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 45° to the right
 
 #### Results
-<img src="resource/sierpinski_curve_0.png" width=47%>
-<img src="resource/sierpinski_curve_1.png" width=47%>
-<img src="resource/sierpinski_curve_2.png" width=47%>
-<img src="resource/sierpinski_curve_3.png" width=47%>
-<img src="resource/sierpinski_curve_4.png" width=47%>
-<img src="resource/sierpinski_curve_5.png" width=47%>
+<img src="resource/sierpinski_curve_0.png" width=48%><img src="resource/sierpinski_curve_1.png" width=48%>
+<img src="resource/sierpinski_curve_2.png" width=48%><img src="resource/sierpinski_curve_3.png" width=48%>
+<img src="resource/sierpinski_curve_4.png" width=48%><img src="resource/sierpinski_curve_5.png" width=48%>
 
 ### 7-2. Sierpiński square curve
 [code](demo/sierpinski_square_curve.py)
@@ -265,9 +241,6 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/sierpinski_square_curve_0.png" width=47%>
-<img src="resource/sierpinski_square_curve_1.png" width=47%>
-<img src="resource/sierpinski_square_curve_2.png" width=47%>
-<img src="resource/sierpinski_square_curve_3.png" width=47%>
-<img src="resource/sierpinski_square_curve_4.png" width=47%>
-<img src="resource/sierpinski_square_curve_5.png" width=47%>
+<img src="resource/sierpinski_square_curve_0.png" width=48%><img src="resource/sierpinski_square_curve_1.png" width=48%>
+<img src="resource/sierpinski_square_curve_2.png" width=48%><img src="resource/sierpinski_square_curve_3.png" width=48%>
+<img src="resource/sierpinski_square_curve_4.png" width=48%><img src="resource/sierpinski_square_curve_5.png" width=48%>
