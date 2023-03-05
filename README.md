@@ -23,6 +23,10 @@ Below is a gallery of various mathematical objects that can be described by an L
    2. [Twin dragon](#8-2-twin-dragon)
    3. [Terdragon](#8-3-terdragon)
    4. [Lévy C curve](#8-4-lévy-c-curve-aka-lévy-dragon)
+9. [Fractal plant](#9-fractal-plant)
+10. [Hilbert curve](#10-hilbert-curve)
+11. [Peano curve](#11-peano-curve)
+12. [Penrose tiling (P3)](#12-penrose-tiling-p3)
 
 ## 1. Algae
 [reference](https://en.wikipedia.org/wiki/L-system#Example_1:_Algae), [code](demo/algae.py)
@@ -325,3 +329,91 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/levy_c_curve_6.png" width=33%><img src="resource/levy_c_curve_7.png" width=33%><img src="resource/levy_c_curve_8.png" width=33%>
 <img src="resource/levy_c_curve_9.png" width=33%><img src="resource/levy_c_curve_10.png" width=33%><img src="resource/levy_c_curve_11.png" width=33%>
 <img src="resource/levy_c_curve_12.png" width=33%><img src="resource/levy_c_curve_13.png" width=33%><img src="resource/levy_c_curve_14.png" width=33%>
+
+## 9. Fractal plant
+[reference](https://en.wikipedia.org/wiki/L-system#Example_7:_Fractal_plant), [code](demo/fractal_plant.py)
+
+### L-system
+- variables: `X`, `F`
+- constants: `+`, `-`, `[`, `]`
+- axiom: `X`
+- rules: `X→F+[[X]-X]-F[-FX]+X`, `F→FF`
+
+### Drawing rules
+- `X`: do nothing
+- `F`: go forward with drawing a segment
+- `+`: turn 25° to the left
+- `-`: turn 25° to the right
+- `[`: push the current pose on the stack
+- `]`: pop a pose from the stack
+
+### Results
+<img src="resource/fractal_plant_0.png" width=33%><img src="resource/fractal_plant_1.png" width=33%><img src="resource/fractal_plant_2.png" width=33%>
+<img src="resource/fractal_plant_3.png" width=33%><img src="resource/fractal_plant_4.png" width=33%><img src="resource/fractal_plant_5.png" width=33%>
+<img src="resource/fractal_plant_6.png" width=33%><img src="resource/fractal_plant_7.png" width=33%><img src="resource/fractal_plant_8.png" width=33%>
+
+## 10. Hilbert curve
+[reference](https://en.wikipedia.org/wiki/Hilbert_curve), [code](demo/hilbert_curve.py)
+
+### L-system
+- variables: `A`, `B`
+- constants: `F`, `+`, `-`
+- axiom: `A`
+- rules: `A→+BF-AFA-FB+`, `B→-AF+BFB+FA-`
+
+### Drawing rules
+- `A`: do nothing
+- `B`: do nothing
+- `F`: go forward with drawing a segment
+- `+`: turn 90° to the left
+- `-`: turn 90° to the right
+
+### Results
+<img src="resource/hilbert_curve_0.png" width=33%><img src="resource/hilbert_curve_1.png" width=33%><img src="resource/hilbert_curve_2.png" width=33%>
+<img src="resource/hilbert_curve_3.png" width=33%><img src="resource/hilbert_curve_4.png" width=33%><img src="resource/hilbert_curve_5.png" width=33%>
+<img src="resource/hilbert_curve_6.png" width=33%><img src="resource/hilbert_curve_7.png" width=33%><img src="resource/hilbert_curve_8.png" width=33%>
+
+## 11. Peano curve
+[reference](https://en.wikipedia.org/wiki/Peano_curve), [code](demo/peano_curve.py)
+
+### L-system
+- variables: `A`, `B`
+- constants: `F`, `+`, `-`
+- axiom: `A`
+- rules: `A→AFBFA-F-BFAFB+F+AFBFA`, `B→BFAFB+F+AFBFA-F-BFAFB`
+
+### Drawing rules
+- `A`: do nothing
+- `B`: do nothing
+- `F`: go forward with drawing a segment
+- `+`: turn 90° to the left
+- `-`: turn 90° to the right
+
+### Results
+<img src="resource/peano_curve_0.png" width=33%><img src="resource/peano_curve_1.png" width=33%><img src="resource/peano_curve_2.png" width=33%>
+<img src="resource/peano_curve_3.png" width=33%><img src="resource/peano_curve_4.png" width=33%><img src="resource/peano_curve_5.png" width=33%>
+
+## 12. Penrose tiling (P3)
+[reference](https://es.wikipedia.org/wiki/Teselaci%C3%B3n_de_Penrose#Dibujando_la_teselaci%C3%B3n_de_Penrose_P3), [code](demo/penrose_tiling_P3.py)
+
+### L-system
+- variables: `1`, `6`, `7`, `8`, `9`
+- constants: `+`, `-`, `[`, `]`
+- axiom: `[7]++[7]++[7]++[7]++[7]`
+- rules: `1→(empty)`, `6→81++91----71[-81----61]++`, `7→+81--91[---61--71]+`, `8→-61++71[+++81++91]-`, `9→--81++++61[+91++++71]--71`
+
+### Drawing rules
+- `1`: go forward with drawing a segment
+- `6`: do nothing
+- `7`: do nothing
+- `8`: do nothing
+- `9`: do nothing
+- `+`: turn 36° to the left
+- `-`: turn 36° to the right
+- `[`: push the current pose on the stack
+- `]`: pop a pose from the stack
+
+### Results
+<img src="resource/penrose_tiling_P3_0.png" width=33%><img src="resource/penrose_tiling_P3_1.png" width=33%><img src="resource/penrose_tiling_P3_2.png" width=33%>
+<img src="resource/penrose_tiling_P3_3.png" width=33%><img src="resource/penrose_tiling_P3_4.png" width=33%><img src="resource/penrose_tiling_P3_5.png" width=33%>
+<img src="resource/penrose_tiling_P3_6.png" width=33%><img src="resource/penrose_tiling_P3_7.png" width=33%><img src="resource/penrose_tiling_P3_8.png" width=33%>
