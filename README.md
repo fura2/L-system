@@ -1,9 +1,9 @@
 # L-system
 
-A simulator of [L-systems](https://en.wikipedia.org/wiki/L-system) written by Python
+A simulator of [L-systems](https://en.wikipedia.org/wiki/L-system) written in Python
 
 ## Demo
-### 1. Algae ([Wikipedia Example 1](https://en.wikipedia.org/wiki/L-system#Example_1:_Algae))
+### 1. Algae <span style="font-size:small">([Wikipedia Example 1](https://en.wikipedia.org/wiki/L-system#Example_1:_Algae))</span>
 [code](demo/demo1.py)
 
 #### L-system
@@ -24,7 +24,7 @@ n = 6: ABAABABAABAABABAABABA
 n = 7: ABAABABAABAABABAABABAABAABABAABAAB
 ```
 
-### 2. Fractal binary tree ([Wikipedia Example 2](https://en.wikipedia.org/wiki/L-system#Example_2:_Fractal_(binary)_tree))
+### 2. Fractal binary tree <span style="font-size:small">([Wikipedia Example 2](https://en.wikipedia.org/wiki/L-system#Example_2:_Fractal_(binary)_tree))</span>
 [code](demo/demo2.py)
 
 #### L-system
@@ -40,6 +40,43 @@ n = 7: ABAABABAABAABABAABABAABAABABAABAAB
 - `[`: pop a pose from the stack, turn 45° to the right
 
 #### Results
-<img src="resource/bintree_3.png" width="33%>
-<img src="resource/bintree_4.png" width="33%>
-<img src="resource/bintree_5.png" width="33%>
+<img src="resource/bintree_3.png" width="33%">
+<img src="resource/bintree_4.png" width="33%">
+<img src="resource/bintree_5.png" width="33%">
+
+### 3. Cantor set <span style="font-size:small">([Wikipedia Example 3](https://en.wikipedia.org/wiki/L-system#Example_3:_Cantor_set))</span>
+[code](demo/demo3.py)
+
+#### L-system
+- variables: `A`, `B`
+- constants: none
+- axiom: `A`
+- rules: `A→ABA`, `B→BBB`
+
+#### Drawing rules
+- `A`: go forward with drawing a segment
+- `B`: go forward without drawing
+
+#### Results
+<img src="resource/cantor_2.png" width="33%">
+<img src="resource/cantor_3.png" width="33%">
+<img src="resource/cantor_4.png" width="33%">
+
+### 4. Koch curve <span style="font-size:small">([Wikipedia Example 4](https://en.wikipedia.org/wiki/L-system#Example_4:_Koch_curve))</span>
+[code](demo/demo4.py)
+
+#### L-system
+- variables: `F`
+- constants: `+-`
+- axiom: `F`
+- rules: `F→F+F-F-F+F`
+
+#### Drawing rules
+- `F`: go forward with drawing a segment
+- `+`: turn 90° to the left
+- `-`: turn 90° to the right
+
+#### Results
+<img src="resource/koch_2.png" width="33%">
+<img src="resource/koch_3.png" width="33%">
+<img src="resource/koch_4.png" width="33%">
