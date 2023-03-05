@@ -1,6 +1,7 @@
 # L-system
 
 This is a Python implementation of [L-systems](https://en.wikipedia.org/wiki/L-system).
+
 Below is a gallery of various mathematical objects that can be described by an L-system.
 
 ## Table of Contents
@@ -11,7 +12,7 @@ Below is a gallery of various mathematical objects that can be described by an L
 5. [Variants of the Koch curve](#5-variants-of-the-koch-curve)
    1. [Koch snowflake](#5-1-koch-snowflake)
    2. [Quadratic type 1 curve](#5-2-quadratic-type-1-curve)
-   3. [Quadratic type 2 curve](#5-3-quadratic-type-2-curve)
+   3. [Quadratic type 2 curve (aka Minkowski sausage)](#5-3-quadratic-type-2-curve)
 6. [Variants of the Sierpiński triangle](#6-variants-of-the-sierpiński-triangle)
    1. [Sierpiński triangle](#6-1-sierpiński-triangle)
    2. [Sierpiński arrowhead curve](#6-2-sierpiński-arrowhead-curve)
@@ -22,7 +23,7 @@ Below is a gallery of various mathematical objects that can be described by an L
    1. [Heighway dragon](#8-1-heighway-dragon)
    2. [Twin dragon](#8-2-twin-dragon)
    3. [Terdragon](#8-3-terdragon)
-   4. [Lévy C curve](#8-4-lévy-c-curve-aka-lévy-dragon)
+   4. [Lévy C curve (aka Lévy dragon)](#8-4-lévy-c-curve-aka-lévy-dragon)
 9. [Fractal plant](#9-fractal-plant)
 10. [Hilbert curve](#10-hilbert-curve)
 11. [Peano curve](#11-peano-curve)
