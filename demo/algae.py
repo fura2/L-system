@@ -1,4 +1,3 @@
-'''Algae'''
 from l_system import LSystem
 
 

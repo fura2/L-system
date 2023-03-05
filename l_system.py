@@ -71,10 +71,14 @@ class Turtle:
 
     def _prepare_image(self, title: Optional[str] = None) -> None:
         margin = 5
-        x_min = min([seg.from_.x for seg in self.trajectory] + [seg.to.x for seg in self.trajectory]) - margin
-        x_max = max([seg.from_.x for seg in self.trajectory] + [seg.to.x for seg in self.trajectory]) + margin
-        y_min = min([seg.from_.y for seg in self.trajectory] + [seg.to.y for seg in self.trajectory]) - margin
-        y_max = max([seg.from_.y for seg in self.trajectory] + [seg.to.y for seg in self.trajectory]) + margin
+        if len(self.trajectory) == 0:
+            x_min = y_min = -margin
+            x_max = y_max = margin
+        else:
+            x_min = min([seg.from_.x for seg in self.trajectory] + [seg.to.x for seg in self.trajectory]) - margin
+            x_max = max([seg.from_.x for seg in self.trajectory] + [seg.to.x for seg in self.trajectory]) + margin
+            y_min = min([seg.from_.y for seg in self.trajectory] + [seg.to.y for seg in self.trajectory]) - margin
+            y_max = max([seg.from_.y for seg in self.trajectory] + [seg.to.y for seg in self.trajectory]) + margin
 
         segs = LineCollection(
             [[[seg.from_.x, seg.from_.y], [seg.to.x, seg.to.y]] for seg in self.trajectory],
@@ -88,17 +92,14 @@ class Turtle:
         ax.add_collection(segs)
 
     def show(self, title: Optional[str] = None) -> None:
-        assert len(self.trajectory) > 0, 'Nothing is drawn'
         self._prepare_image(title)
         plt.show()
 
     def save(self, title: Optional[str] = None, *, output_path: Path) -> None:
-        assert len(self.trajectory) > 0, 'Nothing is drawn'
         self._prepare_image(title)
         plt.savefig(output_path)
 
     def show_and_save(self, title: Optional[str] = None, *, output_path: Path) -> None:
-        assert len(self.trajectory) > 0, 'Nothing is drawn'
         self._prepare_image(title)
         plt.savefig(output_path)
         plt.show()
