@@ -70,7 +70,7 @@ class Turtle:
             self.pose = self.move_rules[c](self.pose, self.stack, self.trajectory)
 
     def _prepare_image(self, title: Optional[str] = None) -> None:
-        margin = 5
+        margin = 3
         if len(self.trajectory) == 0:
             x_min = y_min = -margin
             x_max = y_max = margin
@@ -90,6 +90,7 @@ class Turtle:
         ax.set_xlim(x_min, x_max)
         ax.set_ylim(y_min, y_max)
         ax.add_collection(segs)
+        plt.subplots_adjust(left=0.1, bottom=0.1, right=0.95, top=0.9)
 
     def show(self, title: Optional[str] = None) -> None:
         self._prepare_image(title)

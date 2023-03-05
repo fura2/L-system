@@ -61,9 +61,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `[`: pop a pose from the stack, turn 45° to the right
 
 ### Results
-<img src="resource/binary_tree_0.png" width=48%><img src="resource/binary_tree_1.png" width=48%>
-<img src="resource/binary_tree_2.png" width=48%><img src="resource/binary_tree_3.png" width=48%>
-<img src="resource/binary_tree_4.png" width=48%><img src="resource/binary_tree_5.png" width=48%>
+<img src="resource/binary_tree_0.png" width=33%><img src="resource/binary_tree_1.png" width=33%><img src="resource/binary_tree_2.png" width=33%>
+<img src="resource/binary_tree_3.png" width=33%><img src="resource/binary_tree_4.png" width=33%><img src="resource/binary_tree_5.png" width=33%>
 
 ## 4. Cantor set
 [reference](https://en.wikipedia.org/wiki/L-system#Example_3:_Cantor_set), [code](demo/cantor_set.py)
@@ -79,9 +78,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `B`: go forward without drawing
 
 ### Results
-<img src="resource/cantor_set_0.png" width=48%><img src="resource/cantor_set_1.png" width=48%>
-<img src="resource/cantor_set_2.png" width=48%><img src="resource/cantor_set_3.png" width=48%>
-<img src="resource/cantor_set_4.png" width=48%><img src="resource/cantor_set_5.png" width=48%>
+<img src="resource/cantor_set_0.png" width=33%><img src="resource/cantor_set_1.png" width=33%><img src="resource/cantor_set_2.png" width=33%>
+<img src="resource/cantor_set_3.png" width=33%><img src="resource/cantor_set_4.png" width=33%><img src="resource/cantor_set_5.png" width=33%>
 
 ## 5. Variants of the Koch curve
 [reference1](https://en.wikipedia.org/wiki/L-system#Example_4:_Koch_curve), [reference2](https://en.wikipedia.org/wiki/Koch_snowflake)
@@ -100,9 +98,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/koch_snowflake_0.png" width=48%><img src="resource/koch_snowflake_1.png" width=48%>
-<img src="resource/koch_snowflake_2.png" width=48%><img src="resource/koch_snowflake_3.png" width=48%>
-<img src="resource/koch_snowflake_4.png" width=48%><img src="resource/koch_snowflake_5.png" width=48%>
+<img src="resource/koch_snowflake_0.png" width=33%><img src="resource/koch_snowflake_1.png" width=33%><img src="resource/koch_snowflake_2.png" width=33%>
+<img src="resource/koch_snowflake_3.png" width=33%><img src="resource/koch_snowflake_4.png" width=33%><img src="resource/koch_snowflake_5.png" width=33%>
 
 ### 5-2. Quadratic type 1 curve
 #### L-system
@@ -117,11 +114,10 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/koch_quadratic_1_0.png" width=48%><img src="resource/koch_quadratic_1_1.png" width=48%>
-<img src="resource/koch_quadratic_1_2.png" width=48%><img src="resource/koch_quadratic_1_3.png" width=48%>
-<img src="resource/koch_quadratic_1_4.png" width=48%><img src="resource/koch_quadratic_1_5.png" width=48%>
+<img src="resource/koch_quadratic_1_0.png" width=33%><img src="resource/koch_quadratic_1_1.png" width=33%><img src="resource/koch_quadratic_1_2.png" width=33%>
+<img src="resource/koch_quadratic_1_3.png" width=33%><img src="resource/koch_quadratic_1_4.png" width=33%><img src="resource/koch_quadratic_1_5.png" width=33%>
 
-### 5-3. Quadratic type 2 curve (Minkowski sausage)
+### 5-3. Quadratic type 2 curve (aka Minkowski sausage)
 #### L-system
 - variables: `F`
 - constants: `+`, `-`
@@ -134,9 +130,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/koch_quadratic_2_0.png" width=48%><img src="resource/koch_quadratic_2_1.png" width=48%>
-<img src="resource/koch_quadratic_2_2.png" width=48%><img src="resource/koch_quadratic_2_3.png" width=48%>
-<img src="resource/koch_quadratic_2_4.png" width=48%><img src="resource/koch_quadratic_2_5.png" width=48%>
+<img src="resource/koch_quadratic_2_0.png" width=33%><img src="resource/koch_quadratic_2_1.png" width=33%><img src="resource/koch_quadratic_2_2.png" width=33%>
+<img src="resource/koch_quadratic_2_3.png" width=33%><img src="resource/koch_quadratic_2_4.png" width=33%><img src="resource/koch_quadratic_2_5.png" width=33%>
 
 ## 6. Variants of the Sierpiński triangle
 [reference1](https://en.wikipedia.org/wiki/L-system#Example_5:_Sierpinski_triangle), [reference2](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_curve)
@@ -157,12 +152,11 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 120° to the right
 
 #### Results
-<img src="resource/sierpinski_triangle_0.png" width=48%><img src="resource/sierpinski_triangle_1.png" width=48%>
-<img src="resource/sierpinski_triangle_2.png" width=48%><img src="resource/sierpinski_triangle_3.png" width=48%>
-<img src="resource/sierpinski_triangle_4.png" width=48%><img src="resource/sierpinski_triangle_5.png" width=48%>
+<img src="resource/sierpinski_triangle_0.png" width=33%><img src="resource/sierpinski_triangle_1.png" width=33%><img src="resource/sierpinski_triangle_2.png" width=33%>
+<img src="resource/sierpinski_triangle_3.png" width=33%><img src="resource/sierpinski_triangle_4.png" width=33%><img src="resource/sierpinski_triangle_5.png" width=33%>
 
 ### 6-2. Sierpiński arrowhead curve
-[code](demo/sierpinski_arrowhead_curve_1.py)
+[code](demo/sierpinski_arrowhead_curve.py)
 
 #### L-system
 - variables: `A`, `B`
@@ -177,30 +171,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 60° to the right
 
 #### Results
-<img src="resource/sierpinski_arrowhead_curve_1_0.png" width=48%><img src="resource/sierpinski_arrowhead_curve_1_1.png" width=48%>
-<img src="resource/sierpinski_arrowhead_curve_1_2.png" width=48%><img src="resource/sierpinski_arrowhead_curve_1_3.png" width=48%>
-<img src="resource/sierpinski_arrowhead_curve_1_4.png" width=48%><img src="resource/sierpinski_arrowhead_curve_1_5.png" width=48%>
-
-### 6-3. Sierpiński arrowhead curve (alternative construction)
-[code](demo/sierpinski_arrowhead_curve_2.py)
-
-#### L-system
-- variables: `X`, `Y`
-- constants: `F`, `+`, `-`
-- axiom: `XF`
-- rules: `X→YF+XF+Y`, `Y→XF-YF-X`
-
-#### Drawing rules
-- `X`: do nothing
-- `Y`: do nothing
-- `F`: go forward with drawing a segment
-- `+`: turn 60° to the left
-- `-`: turn 60° to the right
-
-#### Results
-<img src="resource/sierpinski_arrowhead_curve_2_0.png" width=48%><img src="resource/sierpinski_arrowhead_curve_2_1.png" width=48%>
-<img src="resource/sierpinski_arrowhead_curve_2_2.png" width=48%><img src="resource/sierpinski_arrowhead_curve_2_3.png" width=48%>
-<img src="resource/sierpinski_arrowhead_curve_2_4.png" width=48%><img src="resource/sierpinski_arrowhead_curve_2_5.png" width=48%>
+<img src="resource/sierpinski_arrowhead_curve_0.png" width=33%><img src="resource/sierpinski_arrowhead_curve_1.png" width=33%><img src="resource/sierpinski_arrowhead_curve_2.png" width=33%>
+<img src="resource/sierpinski_arrowhead_curve_3.png" width=33%><img src="resource/sierpinski_arrowhead_curve_4.png" width=33%><img src="resource/sierpinski_arrowhead_curve_5.png" width=33%>
 
 ## 7. Variants of the Sierpiński curve
 [reference1](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_curve), [reference2](https://math.stackexchange.com/questions/3393187)
@@ -221,9 +193,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 45° to the right
 
 #### Results
-<img src="resource/sierpinski_curve_0.png" width=48%><img src="resource/sierpinski_curve_1.png" width=48%>
-<img src="resource/sierpinski_curve_2.png" width=48%><img src="resource/sierpinski_curve_3.png" width=48%>
-<img src="resource/sierpinski_curve_4.png" width=48%><img src="resource/sierpinski_curve_5.png" width=48%>
+<img src="resource/sierpinski_curve_0.png" width=33%><img src="resource/sierpinski_curve_1.png" width=33%><img src="resource/sierpinski_curve_2.png" width=33%>
+<img src="resource/sierpinski_curve_3.png" width=33%><img src="resource/sierpinski_curve_4.png" width=33%><img src="resource/sierpinski_curve_5.png" width=33%>
 
 ### 7-2. Sierpiński square curve
 [code](demo/sierpinski_square_curve.py)
@@ -241,6 +212,96 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/sierpinski_square_curve_0.png" width=48%><img src="resource/sierpinski_square_curve_1.png" width=48%>
-<img src="resource/sierpinski_square_curve_2.png" width=48%><img src="resource/sierpinski_square_curve_3.png" width=48%>
-<img src="resource/sierpinski_square_curve_4.png" width=48%><img src="resource/sierpinski_square_curve_5.png" width=48%>
+<img src="resource/sierpinski_square_curve_0.png" width=33%><img src="resource/sierpinski_square_curve_1.png" width=33%><img src="resource/sierpinski_square_curve_2.png" width=33%>
+<img src="resource/sierpinski_square_curve_3.png" width=33%><img src="resource/sierpinski_square_curve_4.png" width=33%><img src="resource/sierpinski_square_curve_5.png" width=33%>
+
+## 8. Variants of the dragon curve
+[reference1](https://en.wikipedia.org/wiki/L-system#Example_6:_Dragon_curve), [reference2](https://en.wikipedia.org/wiki/Dragon_curve), [reference3](https://larryriddle.agnesscott.org/ifs/heighway/heighway.htm)
+
+### 8-1. Heighway dragon
+[code](demo/heighway_dragon_1.py)
+
+#### L-system
+- variables: `F`, `G`
+- constants: `+`, `-`
+- axiom: `F`
+- rules: `F→F+G`, `G→F-G`
+
+#### Drawing rules
+- `F`: go forward with drawing a red segment
+- `G`: go forward with drawing a green segment
+- `+`: turn 90° to the left
+- `-`: turn 90° to the right
+
+#### Results
+<img src="resource/heighway_dragon_0.png" width=33%><img src="resource/heighway_dragon_1.png" width=33%><img src="resource/heighway_dragon_2.png" width=33%>
+<img src="resource/heighway_dragon_3.png" width=33%><img src="resource/heighway_dragon_4.png" width=33%><img src="resource/heighway_dragon_5.png" width=33%>
+<img src="resource/heighway_dragon_6.png" width=33%><img src="resource/heighway_dragon_7.png" width=33%><img src="resource/heighway_dragon_8.png" width=33%>
+<img src="resource/heighway_dragon_9.png" width=33%><img src="resource/heighway_dragon_10.png" width=33%><img src="resource/heighway_dragon_11.png" width=33%>
+<img src="resource/heighway_dragon_12.png" width=33%><img src="resource/heighway_dragon_13.png" width=33%><img src="resource/heighway_dragon_14.png" width=33%>
+
+### 8-2. Twin dragon
+[code](demo/twin_dragon.py)
+
+#### L-system
+- variables: `F`, `G`, `X`, `Y`
+- constants: `+`, `-`
+- axiom: `F+G+X+Y`
+- rules: `F→F+G`, `G→F-G`, `X→X+Y`, `Y→X-Y`
+
+#### Drawing rules
+- `F`: go forward with drawing a red segment
+- `G`: go forward with drawing a red segment
+- `X`: go forward with drawing a blue segment
+- `Y`: go forward with drawing a blue segment
+- `+`: turn 90° to the left
+- `-`: turn 90° to the right
+
+#### Results
+<img src="resource/twin_dragon_0.png" width=33%><img src="resource/twin_dragon_1.png" width=33%><img src="resource/twin_dragon_2.png" width=33%>
+<img src="resource/twin_dragon_3.png" width=33%><img src="resource/twin_dragon_4.png" width=33%><img src="resource/twin_dragon_5.png" width=33%>
+<img src="resource/twin_dragon_6.png" width=33%><img src="resource/twin_dragon_7.png" width=33%><img src="resource/twin_dragon_8.png" width=33%>
+<img src="resource/twin_dragon_9.png" width=33%><img src="resource/twin_dragon_10.png" width=33%><img src="resource/twin_dragon_11.png" width=33%>
+<img src="resource/twin_dragon_12.png" width=33%><img src="resource/twin_dragon_13.png" width=33%><img src="resource/twin_dragon_14.png" width=33%>
+
+### 8-3. Terdragon
+[code](demo/terdragon.py)
+
+#### L-system
+- variables: `F`, `G`, `H`
+- constants: `+`, `-`
+- axiom: `F+G-H`
+- rules: `F→F+F-F`, `G→G+G-G`, `H→H+H-H`
+
+#### Drawing rules
+- `F`: go forward with drawing a red segment
+- `G`: go forward with drawing a green segment
+- `H`: go forward with drawing a blue segment
+- `+`: turn 120° to the left
+- `-`: turn 120° to the right
+
+#### Results
+<img src="resource/terdragon_0.png" width=33%><img src="resource/terdragon_1.png" width=33%><img src="resource/terdragon_2.png" width=33%>
+<img src="resource/terdragon_3.png" width=33%><img src="resource/terdragon_4.png" width=33%><img src="resource/terdragon_5.png" width=33%>
+<img src="resource/terdragon_6.png" width=33%><img src="resource/terdragon_7.png" width=33%><img src="resource/terdragon_8.png" width=33%>
+
+### 8-4. Lévy C curve (aka Lévy dragon)
+[code](demo/levy_c_curve.py)
+
+#### L-system
+- variables: `F`
+- constants: `+`, `-`
+- axiom: `F`
+- rules: `F→+F--F+`
+
+#### Drawing rules
+- `F`: go forward with drawing a segment
+- `+`: turn 45° to the left
+- `-`: turn 45° to the right
+
+#### Results
+<img src="resource/levy_c_curve_0.png" width=33%><img src="resource/levy_c_curve_1.png" width=33%><img src="resource/levy_c_curve_2.png" width=33%>
+<img src="resource/levy_c_curve_3.png" width=33%><img src="resource/levy_c_curve_4.png" width=33%><img src="resource/levy_c_curve_5.png" width=33%>
+<img src="resource/levy_c_curve_6.png" width=33%><img src="resource/levy_c_curve_7.png" width=33%><img src="resource/levy_c_curve_8.png" width=33%>
+<img src="resource/levy_c_curve_9.png" width=33%><img src="resource/levy_c_curve_10.png" width=33%><img src="resource/levy_c_curve_11.png" width=33%>
+<img src="resource/levy_c_curve_12.png" width=33%><img src="resource/levy_c_curve_13.png" width=33%><img src="resource/levy_c_curve_14.png" width=33%>

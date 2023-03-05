@@ -20,5 +20,5 @@ for n in range(6):
         },
     )
     turtle.move(s)
-    turtle.show_and_save(f'n = {n}', output_path=f'resource/sierpinski_arrowhead_curve_1_{n}.png')
+    turtle.show_and_save(f'n = {n}', output_path=f'resource/sierpinski_arrowhead_curve_{n}.png')
     s = l_system.step(s)
