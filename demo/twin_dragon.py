@@ -1,6 +1,5 @@
 from l_system import LSystem, Turtle
 
-
 l_system = LSystem(
     variables='FGXY',
     constants='+-',

@@ -1,6 +1,5 @@
 from l_system import LSystem
 
-
 l_system = LSystem(
     variables='AB',
     constants='',

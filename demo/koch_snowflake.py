@@ -1,7 +1,6 @@
 '''Koch snowflake'''
 from l_system import LSystem, Turtle
 
-
 l_system = LSystem(
     variables='F',
     constants='+-',

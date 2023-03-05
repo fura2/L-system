@@ -1,6 +1,5 @@
 from l_system import LSystem, Pose, Segment, Turtle
 
-
 l_system = LSystem(
     variables='01',
     constants='[]',

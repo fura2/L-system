@@ -70,7 +70,7 @@ class Turtle:
             self.pose = self.move_rules[c](self.pose, self.stack, self.trajectory)
 
     def _prepare_image(self, title: Optional[str] = None) -> None:
-        margin = 3
+        margin = 3.0
         if len(self.trajectory) == 0:
             x_min = y_min = -margin
             x_max = y_max = margin
