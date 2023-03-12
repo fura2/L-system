@@ -127,6 +127,7 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/koch_snowflake_3.png" width=33%><img src="resource/koch_snowflake_4.png" width=33%><img src="resource/koch_snowflake_5.png" width=33%>
 
 ### 5-2. Quadratic type 1 curve
+[code](demo/koch_quadratic_1.py)
 #### L-system
 - variables: `F`
 - constants: `+`, `-`
@@ -143,6 +144,7 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/koch_quadratic_1_3.png" width=33%><img src="resource/koch_quadratic_1_4.png" width=33%><img src="resource/koch_quadratic_1_5.png" width=33%>
 
 ### 5-3. Quadratic type 2 curve (aka Minkowski sausage)
+[code](demo/koch_quadratic_2.py)
 #### L-system
 - variables: `F`
 - constants: `+`, `-`
