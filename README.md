@@ -2,7 +2,7 @@
 
 This is a Python implementation of [L-systems](https://en.wikipedia.org/wiki/L-system).
 
-Below is a gallery of various mathematical objects that can be described by an L-system.
+The following is a gallery of various mathematical objects that can be described by an L-system.
 
 ## Table of Contents
 1. [Algae](#1-algae)
@@ -119,8 +119,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 
 #### Drawing rules
 - `F`: go forward with drawing a segment
-- `+`: turn 90° to the left
-- `-`: turn 90° to the right
+- `+`: turn 60° to the left
+- `-`: turn 60° to the right
 
 #### Results
 <img src="resource/koch_snowflake_0.png" width=33%><img src="resource/koch_snowflake_1.png" width=33%><img src="resource/koch_snowflake_2.png" width=33%>
