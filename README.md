@@ -27,7 +27,8 @@ The following is a gallery of various mathematical objects that can be described
 9. [Fractal plant](#9-fractal-plant)
 10. [Hilbert curve](#10-hilbert-curve)
 11. [Peano curve](#11-peano-curve)
-12. [Penrose tiling (P3)](#12-penrose-tiling-p3)
+12. [Gosper curve](#12-gosper-curve)
+13. [Penrose tiling (P3)](#13-penrose-tiling-p3)
 
 ## 1. Algae
 [reference](https://en.wikipedia.org/wiki/L-system#Example_1:_Algae), [code](demo/algae.py)
@@ -396,7 +397,27 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/peano_curve_0.png" width=33%><img src="resource/peano_curve_1.png" width=33%><img src="resource/peano_curve_2.png" width=33%>
 <img src="resource/peano_curve_3.png" width=33%><img src="resource/peano_curve_4.png" width=33%><img src="resource/peano_curve_5.png" width=33%>
 
-## 12. Penrose tiling (P3)
+
+## 12. Gosper curve
+[reference](https://en.wikipedia.org/wiki/Gosper_curve), [code](demo/gosper_curve.py)
+
+### L-system
+- variables: `A`, `B`
+- constants: `+`, `-`
+- axiom: `A`
+- rules: `A→A-B--B+A++AA+B-`, `B→+A-BB--B-A++A+B`
+
+### Drawing rules
+- `A`: go forward with drawing a green segment
+- `B`: go forward with drawing a blue segment
+- `+`: turn 60° to the left
+- `-`: turn 60° to the right
+
+### Results
+<img src="resource/gosper_curve_0.png" width=33%><img src="resource/gosper_curve_1.png" width=33%><img src="resource/gosper_curve_2.png" width=33%>
+<img src="resource/gosper_curve_3.png" width=33%><img src="resource/gosper_curve_4.png" width=33%><img src="resource/gosper_curve_5.png" width=33%>
+
+## 13. Penrose tiling (P3)
 [reference](https://es.wikipedia.org/wiki/Teselaci%C3%B3n_de_Penrose#Dibujando_la_teselaci%C3%B3n_de_Penrose_P3), [code](demo/penrose_tiling_P3.py)
 
 ### L-system
