@@ -446,22 +446,22 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 [code](demo/penrose_tiling_P3.py)
 
 ### L-system
-- variables: `1`, `6`, `7`, `8`, `9`
+- variables: `F`, `1`, `2`, `3`, `4`
 - constants: `+`, `-`, `[`, `]`
-- axiom: `[7]++[7]++[7]++[7]++[7]`
+- axiom: `[2]++[2]++[2]++[2]++[2]`
 - rules:
-    - `1→(empty)`
-    - `6→81++91----71[-81----61]++`
-    - `7→+81--91[---61--71]+`
-    - `8→-61++71[+++81++91]-`
-    - `9→--81++++61[+91++++71]--71`
+    - `F→(empty)`
+    - `1→3F++4F----2F[-3F----1F]++`
+    - `2→+3F--4F[---1F--2F]+`
+    - `3→-1F++2F[+++3F++4F]-`
+    - `4→--3F++++1F[+4F++++2F]--2F`
 
 ### Drawing rules
-- `1`: go forward with drawing a line segment
-- `6`: do nothing
-- `7`: do nothing
-- `8`: do nothing
-- `9`: do nothing
+- `F`: go forward with drawing a line segment
+- `1`: do nothing
+- `2`: do nothing
+- `3`: do nothing
+- `4`: do nothing
 - `+`: turn 36° to the left
 - `-`: turn 36° to the right
 - `[`: push the current pose on the stack

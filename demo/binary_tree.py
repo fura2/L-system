@@ -1,4 +1,4 @@
-from l_system import Line, LSystem, Pose, Turtle
+from l_system import Figure, LSystem, Pose, Turtle
 
 l_system = LSystem(
     variables='01',
@@ -8,14 +8,14 @@ l_system = LSystem(
 )
 
 
-def push_and_turn_left(pose: Pose, stack: list[Pose], trajectory: list[Line]) -> Pose:
-    new_pose = Turtle.get_push()(pose, stack, trajectory)
-    return Turtle.get_turn(45.0)(new_pose, stack, trajectory)
+def push_and_turn_left(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
+    new_pose = Turtle.get_push()(pose, stack, figures)
+    return Turtle.get_turn(45.0)(new_pose, stack, figures)
 
 
-def pop_and_turn_right(pose: Pose, stack: list[Pose], trajectory: list[Line]) -> Pose:
-    new_pose = Turtle.get_pop()(pose, stack, trajectory)
-    return Turtle.get_turn(-45.0)(new_pose, stack, trajectory)
+def pop_and_turn_right(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
+    new_pose = Turtle.get_pop()(pose, stack, figures)
+    return Turtle.get_turn(-45.0)(new_pose, stack, figures)
 
 
 s = l_system.axiom

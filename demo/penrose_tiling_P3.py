@@ -1,17 +1,18 @@
 from l_system import LSystem, Turtle
 
 l_system = LSystem(
-    variables='16789',
+    variables='F1234',
     constants='+-[]',
-    axiom='[7]++[7]++[7]++[7]++[7]',
+    axiom='[2]++[2]++[2]++[2]++[2]',
     rules={
-        '1': '',
-        '6': '81++91----71[-81----61]++',
-        '7': '+81--91[---61--71]+',
-        '8': '-61++71[+++81++91]-',
-        '9': '--81++++61[+91++++71]--71',
+        'F': '',
+        '1': '3F++4F----2F[-3F----1F]++',
+        '2': '+3F--4F[---1F--2F]+',
+        '3': '-1F++2F[+++3F++4F]-',
+        '4': '--3F++++1F[+4F++++2F]--2F',
     },
 )
+
 
 s = l_system.axiom
 for n in range(7):
@@ -19,11 +20,11 @@ for n in range(7):
     turtle = Turtle(
         direction=0.0,
         move_rules={
-            '1': Turtle.get_go_forward('Olive', width),
-            '6': Turtle.get_do_nothing(),
-            '7': Turtle.get_do_nothing(),
-            '8': Turtle.get_do_nothing(),
-            '9': Turtle.get_do_nothing(),
+            'F': Turtle.get_go_forward('darkkhaki', width),
+            '1': Turtle.get_do_nothing(),
+            '2': Turtle.get_do_nothing(),
+            '3': Turtle.get_do_nothing(),
+            '4': Turtle.get_do_nothing(),
             '+': Turtle.get_turn(36.0),
             '-': Turtle.get_turn(-36.0),
             '[': Turtle.get_push(),

@@ -4,7 +4,7 @@ from typing import Callable, Optional, TypeAlias, Union
 
 import matplotlib.pyplot as plt  # type: ignore
 import numpy as np
-from matplotlib.collections import LineCollection  # type: ignore
+from matplotlib.collections import LineCollection, PatchCollection  # type: ignore
 
 
 class LSystem:
@@ -47,6 +47,13 @@ Color = Union[str, tuple[float, float, float], tuple[float, float, float, float]
 
 
 @dataclass(frozen=True)
+class Dot:
+    point: Point
+    color: Color
+    radius: float
+
+
+@dataclass(frozen=True)
 class Line:
     from_: Point
     to: Point
@@ -54,36 +61,46 @@ class Line:
     width: float
 
 
+Figure = Union[Dot, Line]
+
+
 class Turtle:
     '''A mapping from an L-system string to a 2D graphic'''
 
-    # (pose, stack (updated in-place), set of drawn line segments (updated in-place)) -> new pose
-    Move: TypeAlias = Callable[[Pose, list[Pose], list[Line]], Pose]
+    # (pose, stack (updated in-place), set of figures drawn (updated in-place),) -> new pose
+    Move: TypeAlias = Callable[[Pose, list[Pose], list[Figure]], Pose]
 
     def __init__(self, direction: float, move_rules: dict[LSystem.Alphabet, Move]) -> None:
         self.pose = Pose(Point(0.0, 0.0), direction)
         self.move_rules = move_rules
         self.stack = []  # type: list[Pose]
-        self.trajectory = []  # type: list[Line]
+        self.figures = []  # type: list[Figure]
 
     def move(self, s: LSystem.String) -> None:
         for c in s:
-            self.pose = self.move_rules[c](self.pose, self.stack, self.trajectory)
+            self.pose = self.move_rules[c](self.pose, self.stack, self.figures)
 
     def _prepare_image(self, title: Optional[str] = None) -> None:
+        dots = [dot for dot in self.figures if isinstance(dot, Dot)]
+        lines = [line for line in self.figures if isinstance(line, Line)]
+
         margin = 3.0
-        if len(self.trajectory) == 0:
+        if len(self.figures) == 0:
             x_min = y_min = -margin
             x_max = y_max = margin
         else:
-            x_min = min([line.from_.x for line in self.trajectory] +
-                        [line.to.x for line in self.trajectory]) - margin
-            x_max = max([line.from_.x for line in self.trajectory] +
-                        [line.to.x for line in self.trajectory]) + margin
-            y_min = min([line.from_.y for line in self.trajectory] +
-                        [line.to.y for line in self.trajectory]) - margin
-            y_max = max([line.from_.y for line in self.trajectory] +
-                        [line.to.y for line in self.trajectory]) + margin
+            x_min = min([dot.point.x for dot in dots] +
+                        [line.from_.x for line in lines] +
+                        [line.to.x for line in lines]) - margin
+            x_max = max([dot.point.x for dot in dots] +
+                        [line.from_.x for line in lines] +
+                        [line.to.x for line in lines]) + margin
+            y_min = min([dot.point.y for dot in dots] +
+                        [line.from_.y for line in lines] +
+                        [line.to.y for line in lines]) - margin
+            y_max = max([dot.point.y for dot in dots] +
+                        [line.from_.y for line in lines] +
+                        [line.to.y for line in lines]) + margin
 
         plt.rcParams['svg.fonttype'] = 'none'
         fig, ax = plt.subplots(subplot_kw={'aspect': 'equal'})
@@ -92,9 +109,15 @@ class Turtle:
         ax.set_xlim(x_min, x_max)
         ax.set_ylim(y_min, y_max)
         ax.add_collection(LineCollection(
-            [[[line.from_.x, line.from_.y], [line.to.x, line.to.y]] for line in self.trajectory],
-            colors=[line.color for line in self.trajectory],
-            linewidths=[line.width for line in self.trajectory],
+            [[[line.from_.x, line.from_.y], [line.to.x, line.to.y]] for line in lines],
+            colors=[line.color for line in lines],
+            linewidths=[line.width for line in lines],
+            zorder=2,
+        ))
+        ax.add_collection(PatchCollection(
+            [plt.Circle([dot.point.x, dot.point.y], dot.radius) for dot in dots],
+            facecolors=[dot.color for dot in dots],
+            zorder=3,
         ))
         plt.subplots_adjust(left=0.1, bottom=0.1, right=0.95, top=0.9)
 
@@ -115,40 +138,48 @@ class Turtle:
     @classmethod
     def get_go_forward(cls, color: Color, width: float = 1.0) -> Move:
         '''Go forward with drawing'''
-        def go_forward(pose: Pose, stack: list[Pose], trajectory: list[Line]) -> Pose:
+        def go_forward(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
             theta = np.radians(pose.direction)
             new_point = Point(pose.position.x + np.cos(theta), pose.position.y + np.sin(theta))
-            trajectory.append(Line(pose.position, new_point, color, width))
+            figures.append(Line(pose.position, new_point, color, width))
             return Pose(new_point, pose.direction)
         return go_forward
 
     @classmethod
     def get_go_forward_without_drawing(cls) -> Move:
         '''Go forward without drawing'''
-        def go_forward_without_drawing(pose: Pose, stack: list[Pose], trajectory: list[Line]) -> Pose:
+        def go_forward_without_drawing(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
             theta = np.radians(pose.direction)
             new_point = Point(pose.position.x + np.cos(theta), pose.position.y + np.sin(theta))
             return Pose(new_point, pose.direction)
         return go_forward_without_drawing
 
     @classmethod
+    def get_point_a_dot(cls, color: Color, radius: float = 1.0) -> Move:
+        '''Point a dot'''
+        def point_a_dot(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
+            figures.append(Dot(pose.position, color, radius))
+            return pose
+        return point_a_dot
+
+    @classmethod
     def get_turn(cls, angle: float) -> Move:
         '''Turn {angle} degrees to the left'''
-        def turn(pose: Pose, stack: list[Pose], trajectory: list[Line]) -> Pose:
+        def turn(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
             return Pose(pose.position, pose.direction + angle)
         return turn
 
     @classmethod
     def get_do_nothing(cls) -> Move:
         '''Do nothing'''
-        def do_nothing(pose: Pose, stack: list[Pose], trajectory: list[Line]) -> Pose:
+        def do_nothing(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
             return pose
         return do_nothing
 
     @classmethod
     def get_push(cls) -> Move:
         '''Push the current pose on the stack'''
-        def push(pose: Pose, stack: list[Pose], trajectory: list[Line]) -> Pose:
+        def push(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
             stack.append(pose)
             return pose
         return push
@@ -156,6 +187,6 @@ class Turtle:
     @classmethod
     def get_pop(cls) -> Move:
         '''Pop a pose from the stack'''
-        def pop(pose: Pose, stack: list[Pose], trajectory: list[Line]) -> Pose:
+        def pop(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
             return stack.pop()
         return pop
