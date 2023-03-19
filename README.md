@@ -541,4 +541,4 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
     - https://en.wikipedia.org/wiki/Peano_curve
     - https://en.wikipedia.org/wiki/Gosper_curve
     - https://en.wikipedia.org/wiki/Dragon_curve
-    - https://es.wikipedia.org/wiki/Teselaci%C3%B3n_de_Penrose#Dibujando_la_teselaci%C3%B3n_de_Penrose_P3
+    - https://es.wikipedia.org/wiki/Teselaci%C3%B3n_de_Penrose
