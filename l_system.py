@@ -155,7 +155,7 @@ class Turtle:
         return go_forward_without_drawing
 
     @classmethod
-    def get_point_a_dot(cls, color: Color, radius: float = 1.0) -> Move:
+    def get_point_a_dot(cls, color: Color, radius: float = 0.1) -> Move:
         '''Point a dot'''
         def point_a_dot(pose: Pose, stack: list[Pose], figures: list[Figure]) -> Pose:
             figures.append(Dot(pose.position, color, radius))
