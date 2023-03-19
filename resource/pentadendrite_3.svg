@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="460.8pt" height="345.6pt" version="1.1" viewBox="0 0 460.8 345.6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-03-19T15:29:48.362034</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="m0 345.6h460.8v-345.6h-460.8z" fill="#fff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="m102.02 311.04h279.81v-276.48h-279.81z" fill="#fff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="ma35c2f3fe3" d="m0 0v3.5" stroke="#000" stroke-width=".8"/>
+      </defs>
+      <use x="122.79904" y="311.04" stroke="#000000" stroke-width=".8" xlink:href="#ma35c2f3fe3"/>
+     </g>
+     <g id="text_1">
+      <text transform="rotate(-0 122.8 325.64)" x="122.79904" y="325.638438" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <use x="154.201509" y="311.04" stroke="#000000" stroke-width=".8" xlink:href="#ma35c2f3fe3"/>
+     </g>
+     <g id="text_2">
+      <text transform="rotate(-0 154.2 325.64)" x="154.201509" y="325.638438" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <use x="185.603978" y="311.04" stroke="#000000" stroke-width=".8" xlink:href="#ma35c2f3fe3"/>
+     </g>
+     <g id="text_3">
+      <text transform="rotate(-0 185.6 325.64)" x="185.603978" y="325.638438" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <use x="217.006447" y="311.04" stroke="#000000" stroke-width=".8" xlink:href="#ma35c2f3fe3"/>
+     </g>
+     <g id="text_4">
+      <text transform="rotate(-0 217.01 325.64)" x="217.006447" y="325.638438" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <use x="248.408916" y="311.04" stroke="#000000" stroke-width=".8" xlink:href="#ma35c2f3fe3"/>
+     </g>
+     <g id="text_5">
+      <text transform="rotate(-0 248.41 325.64)" x="248.408916" y="325.638438" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">20</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <use x="279.811385" y="311.04" stroke="#000000" stroke-width=".8" xlink:href="#ma35c2f3fe3"/>
+     </g>
+     <g id="text_6">
+      <text transform="rotate(-0 279.81 325.64)" x="279.811385" y="325.638438" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">25</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <use x="311.213854" y="311.04" stroke="#000000" stroke-width=".8" xlink:href="#ma35c2f3fe3"/>
+     </g>
+     <g id="text_7">
+      <text transform="rotate(-0 311.21 325.64)" x="311.213854" y="325.638438" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">30</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <use x="342.616323" y="311.04" stroke="#000000" stroke-width=".8" xlink:href="#ma35c2f3fe3"/>
+     </g>
+     <g id="text_8">
+      <text transform="rotate(-0 342.62 325.64)" x="342.616323" y="325.638438" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">35</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <use x="374.018792" y="311.04" stroke="#000000" stroke-width=".8" xlink:href="#ma35c2f3fe3"/>
+     </g>
+     <g id="text_9">
+      <text transform="rotate(-0 374.02 325.64)" x="374.018792" y="325.638438" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">40</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_10">
+      <defs>
+       <path id="m54603cc22e" d="m0 0h-3.5" stroke="#000" stroke-width=".8"/>
+      </defs>
+      <use x="102.016779" y="300.295214" stroke="#000000" stroke-width=".8" xlink:href="#m54603cc22e"/>
+     </g>
+     <g id="text_10">
+      <text transform="rotate(-0 95.017 304.09)" x="95.016779" y="304.094433" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="end">−15</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_11">
+      <use x="102.016779" y="268.892745" stroke="#000000" stroke-width=".8" xlink:href="#m54603cc22e"/>
+     </g>
+     <g id="text_11">
+      <text transform="rotate(-0 95.017 272.69)" x="95.016779" y="272.691964" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="end">−10</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <use x="102.016779" y="237.490276" stroke="#000000" stroke-width=".8" xlink:href="#m54603cc22e"/>
+     </g>
+     <g id="text_12">
+      <text transform="rotate(-0 95.017 241.29)" x="95.016779" y="241.289495" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="end">−5</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <use x="102.016779" y="206.087807" stroke="#000000" stroke-width=".8" xlink:href="#m54603cc22e"/>
+     </g>
+     <g id="text_13">
+      <text transform="rotate(-0 95.017 209.89)" x="95.016779" y="209.887026" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="end">0</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <use x="102.016779" y="174.685338" stroke="#000000" stroke-width=".8" xlink:href="#m54603cc22e"/>
+     </g>
+     <g id="text_14">
+      <text transform="rotate(-0 95.017 178.48)" x="95.016779" y="178.484557" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="end">5</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <use x="102.016779" y="143.282869" stroke="#000000" stroke-width=".8" xlink:href="#m54603cc22e"/>
+     </g>
+     <g id="text_15">
+      <text transform="rotate(-0 95.017 147.08)" x="95.016779" y="147.082088" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="end">10</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <use x="102.016779" y="111.8804" stroke="#000000" stroke-width=".8" xlink:href="#m54603cc22e"/>
+     </g>
+     <g id="text_16">
+      <text transform="rotate(-0 95.017 115.68)" x="95.016779" y="115.679619" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="end">15</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_17">
+      <use x="102.016779" y="80.477931" stroke="#000000" stroke-width=".8" xlink:href="#m54603cc22e"/>
+     </g>
+     <g id="text_17">
+      <text transform="rotate(-0 95.017 84.277)" x="95.016779" y="84.27715" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="end">20</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_18">
+      <use x="102.016779" y="49.075462" stroke="#000000" stroke-width=".8" xlink:href="#m54603cc22e"/>
+     </g>
+     <g id="text_18">
+      <text transform="rotate(-0 95.017 52.875)" x="95.016779" y="52.874681" font="10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="end">25</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1" fill="none">
+    <path d="m122.8 206.09h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m129.08 206.09 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m131.02 200.11h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m137.3 200.11-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m132.22 203.81 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m134.16 209.78h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m140.44 209.78 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m142.38 203.81-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m137.3 200.11 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m139.24 194.14 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m141.18 200.11h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m147.46 200.11 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m149.4 194.14h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m155.68 194.14 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m157.62 188.17h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m163.91 188.17-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m158.82 191.86 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m160.77 197.83h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m167.05 197.83-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m161.96 201.52 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m163.91 207.5-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m158.82 211.19 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m160.77 205.22-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m155.68 201.52-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m150.6 205.22 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m152.54 211.19h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m158.82 211.19 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m160.77 217.16-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m155.68 213.47-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m150.6 217.16 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m152.54 223.14h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m158.82 223.14 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m160.77 217.16h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m167.05 217.16-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m161.96 220.85 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m163.91 226.83h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m170.19 226.83 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m172.13 220.85-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m167.05 217.16 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m168.99 211.19 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m170.93 217.16h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m177.21 217.16 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m179.15 211.19-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m174.07 207.5-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m168.99 211.19-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m163.91 207.5h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m170.19 207.5 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m172.13 201.52-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m167.05 197.83 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m168.99 191.86-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m163.91 188.17 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m165.85 182.2 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m167.79 188.17h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m174.07 188.17 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m176.01 182.2 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m177.95 188.17h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m184.23 188.17 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m186.17 194.14-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m181.09 190.45-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m176.01 194.14 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m177.95 200.11h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m184.23 200.11 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m186.17 194.14h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m192.45 194.14-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m187.37 197.83 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m189.31 203.81h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m195.59 203.81 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m197.53 197.83-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m192.45 194.14 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m194.39 188.17 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m196.33 194.14h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m202.61 194.14 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m204.55 188.17h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m210.83 188.17 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m212.77 182.2h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m219.06 182.2-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m213.97 185.89 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m215.92 191.86h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m222.2 191.86 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m224.14 185.89-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m219.06 182.2 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m221 176.22 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m222.94 182.2h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m229.22 182.2 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m231.16 176.22h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m237.44 176.22 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m239.38 170.25h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m245.66 170.25-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m240.58 173.94 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m242.52 179.91h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m248.8 179.91-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m243.72 183.61 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m245.66 189.58-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m240.58 193.27 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m242.52 187.3-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m237.44 183.61-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m232.36 187.3 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m234.3 193.27h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m240.58 193.27 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m242.52 199.24-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m237.44 195.55-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m232.36 199.24 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m234.3 205.22h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m240.58 205.22 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m242.52 199.24h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m248.8 199.24-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m243.72 202.93 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m245.66 208.91h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m251.94 208.91-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m246.86 212.6 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m248.8 218.57-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m243.72 222.26 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m245.66 216.29-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m240.58 212.6-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m235.5 216.29 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m237.44 222.26h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m243.72 222.26 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m245.66 228.24-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m240.58 224.55-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m235.5 228.24 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m237.44 234.21-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m232.36 237.9 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m234.3 243.88-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m229.22 247.57 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m231.16 241.59-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m226.08 237.9-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m221 241.59 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m222.94 235.62-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m217.86 231.93 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m219.8 225.96 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m221.74 231.93h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m228.02 231.93 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m229.96 225.96-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m224.88 222.26-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m219.8 225.96-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m214.72 222.26h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m221 222.26 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m222.94 216.29-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m217.86 212.6-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m212.77 216.29 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m214.72 222.26-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m209.63 225.96 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m211.58 219.98-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m206.49 216.29-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m201.41 219.98 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m203.35 225.96h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m209.63 225.96 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m211.58 231.93-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m206.49 228.24-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m201.41 231.93 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m203.35 237.9h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m209.63 237.9 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m211.58 231.93h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m217.86 231.93-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m212.77 235.62 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m214.72 241.59h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m221 241.59 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m222.94 247.57h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m229.22 247.57 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m231.16 253.54-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m226.08 249.85-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m221 253.54 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m222.94 259.51-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m217.86 255.82-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m212.77 259.51-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m207.69 255.82h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m213.97 255.82 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m215.92 249.85-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m210.83 246.16-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m205.75 249.85 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m207.69 255.82-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m202.61 259.51 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m204.55 253.54-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m199.47 249.85-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m194.39 253.54 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m196.33 259.51h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m202.61 259.51 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m204.55 265.49-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m199.47 261.79-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m194.39 265.49 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m196.33 271.46h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m202.61 271.46 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m204.55 265.49h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m210.83 265.49-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m205.75 269.18 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m207.69 275.15h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m213.97 275.15 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m215.92 269.18-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m210.83 265.49 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m212.77 259.51 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m214.72 265.49h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m221 265.49 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m222.94 259.51h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m229.22 259.51 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m231.16 253.54h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m237.44 253.54-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m232.36 257.23 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m234.3 263.2h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m240.58 263.2-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m235.5 266.9 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m237.44 272.87-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m232.36 276.56 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m234.3 270.59-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m229.22 266.9-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m224.14 270.59 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m226.08 276.56h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m232.36 276.56 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m234.3 282.53-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m229.22 278.84-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m224.14 282.53 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m226.08 288.51h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m232.36 288.51 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m234.3 282.53h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m240.58 282.53-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m235.5 286.23 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m237.44 292.2h6.2805" clip-path="url(#pcb88dd4813)" stroke="#f00"/>
+    <path d="m243.72 292.2 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m245.66 286.23-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m240.58 282.53 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m242.52 276.56 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m244.46 282.53h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m250.74 282.53 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m252.68 276.56-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m247.6 272.87-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m242.52 276.56-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m237.44 272.87h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m243.72 272.87 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m245.66 266.9-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m240.58 263.2 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m242.52 257.23-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m237.44 253.54 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m239.38 247.57 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m241.32 253.54h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m247.6 253.54 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m249.54 247.57 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m251.48 253.54h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m257.76 253.54 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m259.7 259.51-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m254.62 255.82-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m249.54 259.51 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m251.48 265.49h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m257.76 265.49 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m259.7 259.51h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m265.98 259.51-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m260.9 263.2 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m262.84 269.18h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m269.12 269.18 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m271.07 263.2-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m265.98 259.51 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m267.92 253.54 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m269.87 259.51h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m276.15 259.51 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m278.09 253.54-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m273.01 249.85-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m267.92 253.54-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m262.84 249.85h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m269.12 249.85 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m271.07 243.88-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m265.98 240.18-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m260.9 243.88 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m262.84 249.85-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m257.76 253.54 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m259.7 247.57-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m254.62 243.88-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m249.54 247.57-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m244.46 243.88-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m239.38 247.57-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m234.3 243.88h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m240.58 243.88 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m242.52 237.9-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m237.44 234.21h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m243.72 234.21 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m245.66 228.24h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m251.94 228.24-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m246.86 231.93 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m248.8 237.9h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m255.08 237.9 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m257.02 231.93-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m251.94 228.24 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m253.88 222.26 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m255.82 228.24h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m262.1 228.24 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m264.04 222.26-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m258.96 218.57-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m253.88 222.26-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m248.8 218.57h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m255.08 218.57 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m257.02 212.6-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m251.94 208.91 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m253.88 202.93-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m248.8 199.24 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m250.74 193.27 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m252.68 199.24h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m258.96 199.24 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m260.9 193.27-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m255.82 189.58-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m250.74 193.27-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m245.66 189.58h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m251.94 189.58 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m253.88 183.61-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m248.8 179.91 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m250.74 173.94-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m245.66 170.25 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m247.6 164.28 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m249.54 170.25h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m255.82 170.25 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m257.76 164.28 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m259.7 170.25h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m265.98 170.25 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m267.92 176.22-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m262.84 172.53-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m257.76 176.22 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m259.7 182.2h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m265.98 182.2 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m267.92 176.22h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m274.21 176.22-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m269.12 179.91 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m271.07 185.89h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m277.35 185.89 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m279.29 179.91-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m274.21 176.22 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m276.15 170.25 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m278.09 176.22h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m284.37 176.22 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m286.31 170.25 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m288.25 176.22h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m294.53 176.22 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m296.47 182.2-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m291.39 178.5-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m286.31 182.2 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m288.25 188.17h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m294.53 188.17 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m296.47 182.2h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m302.75 182.2-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m297.67 185.89 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m299.61 191.86h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m305.89 191.86 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m307.83 197.83h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m314.11 197.83 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m316.05 203.81-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m310.97 200.11-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m305.89 203.81 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m307.83 209.78-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m302.75 206.09-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m297.67 209.78-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m292.59 206.09h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m298.87 206.09 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m300.81 200.11-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m295.73 196.42-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m290.65 200.11 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m292.59 206.09-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m287.51 209.78 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m289.45 203.81-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m284.37 200.11-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m279.29 203.81 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m281.23 209.78h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m287.51 209.78 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m289.45 215.75-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m284.37 212.06-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m279.29 215.75 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m281.23 221.73h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m287.51 221.73 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m289.45 215.75h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m295.73 215.75-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m290.65 219.44 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m292.59 225.42h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m298.87 225.42 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m300.81 219.44-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m295.73 215.75 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m297.67 209.78 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m299.61 215.75h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m305.89 215.75 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m307.83 209.78h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m314.11 209.78 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m316.05 203.81h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m322.33 203.81-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m317.25 207.5 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m319.19 213.47h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m325.47 213.47-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m320.39 217.16 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m322.33 223.14-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m317.25 226.83 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m319.19 220.85-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m314.11 217.16-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m309.03 220.85 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m310.97 226.83h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m317.25 226.83 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m319.19 232.8-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m314.11 229.11-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m309.03 232.8 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m310.97 238.77h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m317.25 238.77 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m319.19 232.8h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m325.47 232.8-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m320.39 236.49 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m322.33 242.47h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m328.61 242.47 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m330.55 236.49-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m325.47 232.8 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m327.41 226.83 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m329.36 232.8h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m335.64 232.8 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m337.58 226.83-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m332.5 223.14-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m327.41 226.83-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m322.33 223.14h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m328.61 223.14 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m330.55 217.16-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m325.47 213.47 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m327.41 207.5-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m322.33 203.81 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m324.27 197.83 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m326.22 203.81h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m332.5 203.81 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m334.44 197.83 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m336.38 203.81h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m342.66 203.81 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m344.6 209.78-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m339.52 206.09-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m334.44 209.78 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m336.38 215.75h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m342.66 215.75 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m344.6 209.78h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m350.88 209.78-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m345.8 213.47 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m347.74 219.44h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m354.02 219.44 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m355.96 213.47-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m350.88 209.78 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m352.82 203.81 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m354.76 209.78h6.2805" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m361.04 209.78 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#ffd700"/>
+    <path d="m362.98 203.81-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m357.9 200.11-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m352.82 203.81-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m347.74 200.11h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m354.02 200.11 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m355.96 194.14-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m350.88 190.45-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m345.8 194.14 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m347.74 200.11-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m342.66 203.81 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m344.6 197.83-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m339.52 194.14-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m334.44 197.83-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m329.36 194.14-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m324.27 197.83-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m319.19 194.14h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m325.47 194.14 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m327.41 188.17-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m322.33 184.48h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m328.61 184.48 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m330.55 178.5h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m336.84 178.5-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m331.75 182.2 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m333.7 188.17h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m339.98 188.17 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m341.92 182.2-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m336.84 178.5 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m338.78 172.53 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m340.72 178.5h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m347 178.5 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m348.94 172.53-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m343.86 168.84-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m338.78 172.53-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m333.7 168.84h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m339.98 168.84 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m341.92 162.87-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m336.84 159.17-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m331.75 162.87 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m333.7 168.84-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m328.61 172.53 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m330.55 166.56-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m325.47 162.87-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m320.39 166.56 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m322.33 172.53h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m328.61 172.53 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m330.55 178.5-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m325.47 174.81-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m320.39 178.5 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m322.33 184.48-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m317.25 188.17 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m319.19 194.14-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m314.11 197.83 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m316.05 191.86-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m310.97 188.17-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m305.89 191.86 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m307.83 185.89-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m302.75 182.2 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m304.69 176.22 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m306.63 182.2h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m312.91 182.2 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m314.85 176.22-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m309.77 172.53-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m304.69 176.22-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m299.61 172.53h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m305.89 172.53 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m307.83 166.56-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m302.75 162.87-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m297.67 166.56 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m299.61 172.53-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m294.53 176.22 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m296.47 170.25-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m291.39 166.56-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m286.31 170.25-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m281.23 166.56-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m276.15 170.25-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m271.07 166.56h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m277.35 166.56 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m279.29 160.58-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m274.21 156.89-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m269.12 160.58 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m271.07 166.56-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m265.98 170.25 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m267.92 164.28-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m262.84 160.58-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m257.76 164.28-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m252.68 160.58-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m247.6 164.28-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m242.52 160.58h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m248.8 160.58 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m250.74 154.61-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m245.66 150.92h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m251.94 150.92 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m253.88 144.95h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m260.16 144.95-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m255.08 148.64 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m257.02 154.61h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m263.3 154.61 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m265.24 148.64-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m260.16 144.95 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m262.1 138.97 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m264.04 144.95h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m270.32 144.95 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m272.26 138.97-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m267.18 135.28-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m262.1 138.97-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m257.02 135.28h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m263.3 135.28 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m265.24 129.31-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m260.16 125.62h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m266.44 125.62 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m268.38 119.64h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m274.66 119.64-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m269.58 123.34 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m271.52 129.31h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m277.8 129.31 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m279.74 123.34-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m274.66 119.64 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m276.6 113.67 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m278.55 119.64h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m284.83 119.64 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m286.77 113.67h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m293.05 113.67 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m294.99 107.7h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m301.27 107.7-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m296.19 111.39 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m298.13 117.36h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m304.41 117.36-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m299.33 121.05 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m301.27 127.03-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m296.19 130.72 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m298.13 124.75-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m293.05 121.05-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m287.97 124.75 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m289.91 130.72h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m296.19 130.72 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m298.13 136.69-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m293.05 133-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m287.97 136.69 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m289.91 142.67h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m296.19 142.67 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m298.13 136.69h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m304.41 136.69-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m299.33 140.38 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m301.27 146.36h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m307.55 146.36 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m309.49 140.38-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m304.41 136.69 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m306.35 130.72 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m308.29 136.69h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m314.57 136.69 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m316.51 130.72-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m311.43 127.03-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m306.35 130.72-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m301.27 127.03h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m307.55 127.03 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m309.49 121.05-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m304.41 117.36 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m306.35 111.39-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m301.27 107.7 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m303.21 101.72 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m305.15 107.7h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m311.43 107.7 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m313.37 101.72 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m315.31 107.7h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m321.59 107.7 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m323.53 113.67-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m318.45 109.98-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m313.37 113.67 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m315.31 119.64h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m321.59 119.64 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m323.53 113.67h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m329.81 113.67-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m324.73 117.36 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m326.67 123.34h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m332.95 123.34 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m334.89 117.36-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m329.81 113.67 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m331.75 107.7 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m333.7 113.67h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m339.98 113.67 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m341.92 107.7-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m336.84 104.01-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m331.75 107.7-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m326.67 104.01h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m332.95 104.01 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m334.89 98.033-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m329.81 94.342-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m324.73 98.033 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m326.67 104.01-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m321.59 107.7 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m323.53 101.72-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m318.45 98.033-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m313.37 101.72-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m308.29 98.033-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m303.21 101.72-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m298.13 98.033h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m304.41 98.033 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m306.35 92.06-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m301.27 88.369h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m307.55 88.369 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m309.49 82.396h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m315.77 82.396-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m310.69 86.087 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m312.63 92.06h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m318.91 92.06 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m320.85 86.087-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m315.77 82.396 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m317.71 76.422 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m319.65 82.396h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m325.93 82.396 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m327.87 76.422-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m322.79 72.731-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m317.71 76.422-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m312.63 72.731h6.2805" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m318.91 72.731 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m320.85 66.758-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#32cd32"/>
+    <path d="m315.77 63.066-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m310.69 66.758 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m312.63 72.731-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m307.55 76.422 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m309.49 70.449-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m304.41 66.758-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m299.33 70.449 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m301.27 76.422h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m307.55 76.422 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m309.49 82.396-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m304.41 78.704-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m299.33 82.396 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m301.27 88.369-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m296.19 92.06 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m298.13 98.033-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m293.05 101.72 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m294.99 95.752-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m289.91 92.06-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m284.83 95.752 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m286.77 89.779-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m281.69 86.087 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m283.63 80.114 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m285.57 86.087h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m291.85 86.087 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m293.79 80.114-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m288.71 76.422-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m283.63 80.114-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m278.55 76.422h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m284.83 76.422 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m286.77 70.449-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m281.69 66.758-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m276.6 70.449 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m278.55 76.422-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m273.46 80.114 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m275.4 74.141-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m270.32 70.449-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m265.24 74.141 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m267.18 80.114h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m273.46 80.114 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m275.4 86.087-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m270.32 82.396-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m265.24 86.087 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m267.18 92.06h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m273.46 92.06 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m275.4 86.087h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m281.69 86.087-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m276.6 89.779 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m278.55 95.752h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m284.83 95.752 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m286.77 101.72h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m293.05 101.72 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m294.99 107.7-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m289.91 104.01-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m284.83 107.7 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m286.77 113.67-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m281.69 109.98-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m276.6 113.67-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m271.52 109.98h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m277.8 109.98 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m279.74 104.01-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m274.66 100.31-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m269.58 104.01 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m271.52 109.98-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m266.44 113.67 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m268.38 107.7-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m263.3 104.01-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m258.22 107.7 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m260.16 113.67h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m266.44 113.67 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m268.38 119.64-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m263.3 115.95-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m258.22 119.64 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m260.16 125.62-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m255.08 129.31 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m257.02 135.28-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m251.94 138.97 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m253.88 133-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m248.8 129.31-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m243.72 133 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m245.66 138.97h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m251.94 138.97 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m253.88 144.95-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m248.8 141.26-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m243.72 144.95 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m245.66 150.92-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m240.58 154.61 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m242.52 160.58-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m237.44 164.28 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m239.38 158.3-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m234.3 154.61-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m229.22 158.3 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m231.16 152.33-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m226.08 148.64 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m228.02 142.67 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m229.96 148.64h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m236.24 148.64 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m238.18 142.67-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m233.1 138.97-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m228.02 142.67-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m222.94 138.97h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m229.22 138.97 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m231.16 133-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m226.08 129.31-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m221 133 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m222.94 138.97-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m217.86 142.67 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m219.8 136.69-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m214.72 133-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m209.63 136.69 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m211.58 130.72-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m206.49 127.03 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m208.44 121.05 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m210.38 127.03h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m216.66 127.03 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m218.6 121.05-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m213.52 117.36-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m208.44 121.05-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m203.35 117.36h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m209.63 117.36 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m211.58 111.39-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m206.49 107.7 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m208.44 101.72-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m203.35 98.033 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m205.29 92.06 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m207.24 98.033h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m213.52 98.033 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m215.46 92.06 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m217.4 98.033h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m223.68 98.033 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m225.62 104.01-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m220.54 100.31-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m215.46 104.01 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m217.4 109.98h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m223.68 109.98 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m225.62 104.01h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m231.9 104.01-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m226.82 107.7 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m228.76 113.67h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m235.04 113.67 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m236.98 107.7-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m231.9 104.01 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m233.84 98.033 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m235.78 104.01h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m242.06 104.01 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m244 98.033-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m238.92 94.342-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m233.84 98.033-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m228.76 94.342h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m235.04 94.342 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m236.98 88.369-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m231.9 84.677-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m226.82 88.369 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m228.76 94.342-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m223.68 98.033 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m225.62 92.06-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m220.54 88.369-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m215.46 92.06-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m210.38 88.369-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m205.29 92.06-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m200.21 88.369h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m206.49 88.369 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m208.44 82.396-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m203.35 78.704h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m209.63 78.704 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m211.58 72.731h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m217.86 72.731-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m212.77 76.422 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m214.72 82.396h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m221 82.396 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m222.94 76.422-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m217.86 72.731 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m219.8 66.758 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m221.74 72.731h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m228.02 72.731 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m229.96 66.758-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m224.88 63.066-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m219.8 66.758-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m214.72 63.066h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m221 63.066 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m222.94 57.093-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m217.86 53.401-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m212.77 57.093 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m214.72 63.066-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m209.63 66.758 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m211.58 60.785-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m206.49 57.093-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m201.41 60.785 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m203.35 66.758h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m209.63 66.758 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m211.58 72.731-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m206.49 69.039-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m201.41 72.731 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m203.35 78.704-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m198.27 82.396 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m200.21 88.369-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m195.13 92.06 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m197.07 86.087-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m191.99 82.396-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m186.91 86.087 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m188.85 80.114-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m183.77 76.422 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m185.71 70.449 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m187.65 76.422h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m193.93 76.422 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m195.87 70.449-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m190.79 66.758-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m185.71 70.449-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m180.63 66.758h6.2805" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m186.91 66.758 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m188.85 60.785-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m183.77 57.093-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m178.69 60.785 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m180.63 66.758-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m175.55 70.449 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m177.49 64.476-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m172.41 60.785-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#00f"/>
+    <path d="m167.33 64.476 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m169.27 70.449h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m175.55 70.449 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m177.49 76.422-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m172.41 72.731-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m167.33 76.422 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m169.27 82.396h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m175.55 82.396 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m177.49 76.422h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m183.77 76.422-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m178.69 80.114 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m180.63 86.087h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m186.91 86.087 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m188.85 92.06h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m195.13 92.06 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m197.07 98.033-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m191.99 94.342-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m186.91 98.033 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m188.85 104.01-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m183.77 100.31-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m178.69 104.01-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m173.61 100.31h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m179.89 100.31 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m181.83 94.342-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m176.75 90.65-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m171.67 94.342 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m173.61 100.31-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m168.53 104.01 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m170.47 98.033-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m165.39 94.342-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m160.31 98.033 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m162.25 104.01h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m168.53 104.01 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m170.47 109.98-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m165.39 106.29-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m160.31 109.98 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m162.25 115.95h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m168.53 115.95 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m170.47 109.98h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m176.75 109.98-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m171.67 113.67 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m173.61 119.64h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m179.89 119.64 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m181.83 113.67-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m176.75 109.98 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m178.69 104.01 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m180.63 109.98h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m186.91 109.98 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m188.85 104.01h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m195.13 104.01 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m197.07 98.033h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m203.35 98.033-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m198.27 101.72 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m200.21 107.7h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m206.49 107.7-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m201.41 111.39 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m203.35 117.36-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m198.27 121.05 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m200.21 115.08-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m195.13 111.39-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m190.05 115.08 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m191.99 121.05h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m198.27 121.05 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m200.21 127.03-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m195.13 123.34-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m190.05 127.03 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m191.99 133h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m198.27 133 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m200.21 127.03h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m206.49 127.03-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m201.41 130.72 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m203.35 136.69h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m209.63 136.69 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m211.58 142.67h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m217.86 142.67 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m219.8 148.64-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m214.72 144.95-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m209.63 148.64 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m211.58 154.61h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m217.86 154.61 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m219.8 148.64h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m226.08 148.64-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m221 152.33 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m222.94 158.3h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m229.22 158.3 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m231.16 164.28h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m237.44 164.28 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m239.38 170.25-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m234.3 166.56-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m229.22 170.25 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m231.16 176.22-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m226.08 172.53-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m221 176.22-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m215.92 172.53h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m222.2 172.53 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m224.14 166.56-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m219.06 162.87-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m213.97 166.56 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m215.92 172.53-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m210.83 176.22 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m212.77 170.25-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m207.69 166.56-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m202.61 170.25 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m204.55 176.22h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m210.83 176.22 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m212.77 182.2-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m207.69 178.5-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m202.61 182.2 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m204.55 188.17-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m199.47 184.48-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m194.39 188.17-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m189.31 184.48h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m195.59 184.48 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m197.53 178.5-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m192.45 174.81-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m187.37 178.5 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m189.31 184.48-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m184.23 188.17 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m186.17 182.2-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m181.09 178.5-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m176.01 182.2-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m170.93 178.5-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m165.85 182.2-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m160.77 178.5h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m167.05 178.5 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m168.99 172.53-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m163.91 168.84h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m170.19 168.84 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m172.13 162.87h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m178.41 162.87-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m173.33 166.56 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m175.27 172.53h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m181.55 172.53 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m183.49 166.56-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m178.41 162.87 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m180.35 156.89 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m182.29 162.87h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m188.57 162.87 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m190.51 156.89-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m185.43 153.2-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m180.35 156.89-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m175.27 153.2h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m181.55 153.2 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m183.49 147.23-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m178.41 143.54-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m173.33 147.23 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m175.27 153.2-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m170.19 156.89 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m172.13 150.92-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m167.05 147.23-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m161.96 150.92 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m163.91 156.89h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m170.19 156.89 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m172.13 162.87-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m167.05 159.17-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m161.96 162.87 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m163.91 168.84-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m158.82 172.53 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m160.77 178.5-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m155.68 182.2 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m157.62 176.22-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m152.54 172.53-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m147.46 176.22 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m149.4 170.25-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m144.32 166.56 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m146.26 160.58 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m148.2 166.56h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m154.48 166.56 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m156.43 160.58-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m151.34 156.89-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m146.26 160.58-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m141.18 156.89h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m147.46 156.89 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m149.4 150.92-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m144.32 147.23-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m139.24 150.92 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m141.18 156.89-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m136.1 160.58 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m138.04 154.61-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m132.96 150.92-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m127.88 154.61 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m129.82 160.58h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m136.1 160.58 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m138.04 166.56-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m132.96 162.87-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m127.88 166.56 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m129.82 172.53h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m136.1 172.53 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m138.04 166.56h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m144.32 166.56-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m139.24 170.25 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m141.18 176.22h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m147.46 176.22 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m149.4 182.2h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m155.68 182.2 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m157.62 188.17-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m152.54 184.48-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m147.46 188.17 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m149.4 194.14-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m144.32 190.45-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m139.24 194.14-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m134.16 190.45h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m140.44 190.45 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m142.38 184.48-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m137.3 180.79-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m132.22 184.48 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m134.16 190.45-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m129.08 194.14 1.9408-5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m131.02 188.17-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m125.94 184.48-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m120.86 188.17 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m122.8 194.14h6.2805" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m129.08 194.14 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m131.02 200.11-5.081-3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m125.94 196.42-5.081 3.6916" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+    <path d="m120.86 200.11 1.9408 5.9731" clip-path="url(#pcb88dd4813)" stroke="#9400d3"/>
+   </g>
+   <g id="patch_3">
+    <path d="m102.02 311.04v-276.48" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_4">
+    <path d="m381.82 311.04v-276.48" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_5">
+    <path d="m102.02 311.04h279.81" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_6">
+    <path d="m102.02 34.56h279.81" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+  </g>
+  <g id="text_19">
+   <text transform="rotate(-0 230.4 19.07)" x="230.4" y="19.0695" font="16px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" text-anchor="middle">n = 3</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcb88dd4813">
+   <rect x="102.02" y="34.56" width="279.81" height="276.48"/>
+  </clipPath>
+ </defs>
+</svg>
