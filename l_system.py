@@ -67,7 +67,7 @@ Figure = Union[Dot, Line]
 class Turtle:
     '''A mapping from an L-system string to a 2D graphic'''
 
-    # (pose, stack (updated in-place), set of figures drawn (updated in-place),) -> new pose
+    # (pose, stack (updated in-place), set of figures drawn (updated in-place)) -> new pose
     Move: TypeAlias = Callable[[Pose, list[Pose], list[Figure]], Pose]
 
     def __init__(self, direction: float, move_rules: dict[LSystem.Alphabet, Move]) -> None:
