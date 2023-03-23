@@ -1,10 +1,10 @@
 from l_system import LSystem, Turtle
 
 l_system = LSystem(
-    variables='AB',
+    variables='XY',
     constants='F+-',
-    axiom='A',
-    rules={'A': 'AFBFA-F-BFAFB+F+AFBFA', 'B': 'BFAFB+F+AFBFA-F-BFAFB'},
+    axiom='X',
+    rules={'X': 'XFYFX-F-YFXFY+F+XFYFX', 'Y': 'YFXFY+F+XFYFX-F-YFXFY'},
 )
 
 s = l_system.axiom
@@ -13,9 +13,9 @@ for n in range(5):
     turtle = Turtle(
         direction=90.0,
         move_rules={
-            'A': Turtle.get_do_nothing(),
-            'B': Turtle.get_do_nothing(),
             'F': Turtle.get_go_forward('orchid', width),
+            'X': Turtle.get_do_nothing(),
+            'Y': Turtle.get_do_nothing(),
             '+': Turtle.get_turn(90.0),
             '-': Turtle.get_turn(-90.0),
         },

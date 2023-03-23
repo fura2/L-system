@@ -16,24 +16,25 @@ The following is a gallery of various mathematical objects that can be described
 1. [Sierpiński triangles](#6-sierpiński-triangles)
     1. [Sierpiński triangle](#6-1-sierpiński-triangle)
     1. [Sierpiński arrowhead curve](#6-2-sierpiński-arrowhead-curve)
-1. [Sierpiński curves](#7-sierpiński-curves)
-    1. [Sierpiński curve](#7-1-sierpiński-curve)
-    1. [Sierpiński square curve](#7-2-sierpiński-square-curve)
-1. [Dragon curves](#8-dragon-curves)
-    1. [Heighway dragon](#8-1-heighway-dragon)
-    1. [Twin dragon](#8-2-twin-dragon)
-    1. [Terdragon](#8-3-terdragon)
-    1. [Lévy C curve (aka Lévy dragon)](#8-4-lévy-c-curve-aka-lévy-dragon)
-1. [Fractal plant](#9-fractal-plant)
-1. [Hilbert curve](#10-hilbert-curve)
-1. [Peano curve](#11-peano-curve)
-1. [Gosper curves](#12-gosper-curves)
-    1. [Hexagonal Gosper curve](#12-1-hexagonal-gosper-curve)
-    1. [Quadratic Gosper curve](#12-2-quadratic-gosper-curve)
-1. [Penrose tiling (P3)](#13-penrose-tiling-p3)
-1. [Pentigrees](#14-pentigrees)
-    1. [Pentigree](#14-1-pentigree)
-    1. [Pentadendrite](#14-2-pentadendrite)
+1. [Sierpiński carpet](#7-sierpiński-carpet)
+1. [Sierpiński curves](#8-sierpiński-curves)
+    1. [Sierpiński curve](#8-1-sierpiński-curve)
+    1. [Sierpiński square curve](#8-2-sierpiński-square-curve)
+1. [Dragon curves](#9-dragon-curves)
+    1. [Heighway dragon](#9-1-heighway-dragon)
+    1. [Twin dragon](#9-2-twin-dragon)
+    1. [Terdragon](#9-3-terdragon)
+    1. [Lévy C curve (aka Lévy dragon)](#9-4-lévy-c-curve-aka-lévy-dragon)
+1. [Fractal plant](#10-fractal-plant)
+1. [Hilbert curve](#11-hilbert-curve)
+1. [Peano curve](#12-peano-curve)
+1. [Gosper curves](#13-gosper-curves)
+    1. [Hexagonal Gosper curve](#13-1-hexagonal-gosper-curve)
+    1. [Quadratic Gosper curve](#13-2-quadratic-gosper-curve)
+1. [Penrose tiling (P3)](#14-penrose-tiling-p3)
+1. [Pentigrees](#15-pentigrees)
+    1. [Pentigree](#15-1-pentigree)
+    1. [Pentadendrite](#15-2-pentadendrite)
 
 ## 1. Algae
 [code](demo/algae.py)
@@ -207,9 +208,29 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/sierpinski_arrowhead_curve_3.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_4.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_5.svg" width=33%>
 <img src="resource/sierpinski_arrowhead_curve_6.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_7.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_8.svg" width=33%>
 
-## 7. Sierpiński curves
+## 7. Sierpiński carpet
+[code](demo/sierpinski_carpet.py)
 
-### 7-1. Sierpiński curve
+### L-system
+- variables: `F`, `f`, `X`
+- constants: `+`, `-`
+- axiom: `F+F+F+F+X`
+- rules: `F→FFF`, `f→fff`, `X→XfXfX+fF++ff-f-fF++ff-f-f-XfFX++ff-f-XfXFX++ff+ff+`
+
+### Drawing rules
+- `F`: go forward with drawing a line segment
+- `f`: go forward without drawing
+- `X`: point a blue dot
+- `+`: turn 120° to the left
+- `-`: turn 120° to the right
+
+### Results
+<img src="resource/sierpinski_carpet_0.svg" width=33%><img src="resource/sierpinski_carpet_1.svg" width=33%><img src="resource/sierpinski_carpet_2.svg" width=33%>
+<img src="resource/sierpinski_carpet_3.svg" width=33%><img src="resource/sierpinski_carpet_4.svg" width=33%>
+
+## 8. Sierpiński curves
+
+### 8-1. Sierpiński curve
 [code](demo/sierpinski_curve.py)
 
 #### L-system
@@ -229,7 +250,7 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/sierpinski_curve_0.svg" width=33%><img src="resource/sierpinski_curve_1.svg" width=33%><img src="resource/sierpinski_curve_2.svg" width=33%>
 <img src="resource/sierpinski_curve_3.svg" width=33%><img src="resource/sierpinski_curve_4.svg" width=33%><img src="resource/sierpinski_curve_5.svg" width=33%>
 
-### 7-2. Sierpiński square curve
+### 8-2. Sierpiński square curve
 [code](demo/sierpinski_square_curve.py)
 
 #### L-system
@@ -248,9 +269,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/sierpinski_square_curve_0.svg" width=33%><img src="resource/sierpinski_square_curve_1.svg" width=33%><img src="resource/sierpinski_square_curve_2.svg" width=33%>
 <img src="resource/sierpinski_square_curve_3.svg" width=33%><img src="resource/sierpinski_square_curve_4.svg" width=33%><img src="resource/sierpinski_square_curve_5.svg" width=33%>
 
-## 8. Dragon curves
+## 9. Dragon curves
 
-### 8-1. Heighway dragon
+### 9-1. Heighway dragon
 [code](demo/heighway_dragon.py)
 
 #### L-system
@@ -272,7 +293,7 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/heighway_dragon_9.svg" width=33%><img src="resource/heighway_dragon_10.svg" width=33%><img src="resource/heighway_dragon_11.svg" width=33%>
 <img src="resource/heighway_dragon_12.svg" width=33%><img src="resource/heighway_dragon_13.svg" width=33%>
 
-### 8-2. Twin dragon
+### 9-2. Twin dragon
 [code](demo/twin_dragon.py)
 
 #### L-system
@@ -296,7 +317,7 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/twin_dragon_9.svg" width=33%><img src="resource/twin_dragon_10.svg" width=33%><img src="resource/twin_dragon_11.svg" width=33%>
 <img src="resource/twin_dragon_12.svg" width=33%>
 
-### 8-3. Terdragon
+### 9-3. Terdragon
 [code](demo/terdragon.py)
 
 #### L-system
@@ -317,7 +338,7 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/terdragon_3.svg" width=33%><img src="resource/terdragon_4.svg" width=33%><img src="resource/terdragon_5.svg" width=33%>
 <img src="resource/terdragon_6.svg" width=33%><img src="resource/terdragon_7.svg" width=33%>
 
-### 8-4. Lévy C curve (aka Lévy dragon)
+### 9-4. Lévy C curve (aka Lévy dragon)
 [code](demo/levy_c_curve.py)
 
 #### L-system
@@ -338,18 +359,18 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/levy_c_curve_9.svg" width=33%><img src="resource/levy_c_curve_10.svg" width=33%><img src="resource/levy_c_curve_11.svg" width=33%>
 <img src="resource/levy_c_curve_12.svg" width=33%><img src="resource/levy_c_curve_13.svg" width=33%>
 
-## 9. Fractal plant
+## 10. Fractal plant
 [code](demo/fractal_plant.py)
 
 ### L-system
-- variables: `X`, `F`
+- variables: `F`, `X`
 - constants: `+`, `-`, `[`, `]`
 - axiom: `X`
-- rules: `X→F+[[X]-X]-F[-FX]+X`, `F→FF`
+- rules: `F→FF`, `X→F+[[X]-X]-F[-FX]+X`
 
 ### Drawing rules
-- `X`: do nothing
 - `F`: go forward with drawing a line segment
+- `X`: do nothing
 - `+`: turn 25° to the left
 - `-`: turn 25° to the right
 - `[`: push the current pose on the stack
@@ -360,19 +381,19 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/fractal_plant_3.svg" width=33%><img src="resource/fractal_plant_4.svg" width=33%><img src="resource/fractal_plant_5.svg" width=33%>
 <img src="resource/fractal_plant_6.svg" width=33%><img src="resource/fractal_plant_7.svg" width=33%>
 
-## 10. Hilbert curve
+## 11. Hilbert curve
 [code](demo/hilbert_curve.py)
 
 ### L-system
-- variables: `A`, `B`
+- variables: `X`, `Y`
 - constants: `F`, `+`, `-`
-- axiom: `A`
-- rules: `A→+BF-AFA-FB+`, `B→-AF+BFB+FA-`
+- axiom: `X`
+- rules: `X→+YF-XFX-FY+`, `Y→-XF+YFY+FX-`
 
 ### Drawing rules
-- `A`: do nothing
-- `B`: do nothing
 - `F`: go forward with drawing a line segment
+- `X`: do nothing
+- `Y`: do nothing
 - `+`: turn 90° to the left
 - `-`: turn 90° to the right
 
@@ -381,19 +402,19 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/hilbert_curve_3.svg" width=33%><img src="resource/hilbert_curve_4.svg" width=33%><img src="resource/hilbert_curve_5.svg" width=33%>
 <img src="resource/hilbert_curve_6.svg" width=33%><img src="resource/hilbert_curve_7.svg" width=33%>
 
-## 11. Peano curve
+## 12. Peano curve
 [code](demo/peano_curve.py)
 
 ### L-system
-- variables: `A`, `B`
+- variables: `X`, `Y`
 - constants: `F`, `+`, `-`
-- axiom: `A`
-- rules: `A→AFBFA-F-BFAFB+F+AFBFA`, `B→BFAFB+F+AFBFA-F-BFAFB`
+- axiom: `X`
+- rules: `X→XFYFX-F-YFXFY+F+XFYFX`, `Y→YFXFY+F+XFYFX-F-YFXFY`
 
 ### Drawing rules
-- `A`: do nothing
-- `B`: do nothing
 - `F`: go forward with drawing a line segment
+- `X`: do nothing
+- `Y`: do nothing
 - `+`: turn 90° to the left
 - `-`: turn 90° to the right
 
@@ -401,10 +422,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/peano_curve_0.svg" width=33%><img src="resource/peano_curve_1.svg" width=33%><img src="resource/peano_curve_2.svg" width=33%>
 <img src="resource/peano_curve_3.svg" width=33%><img src="resource/peano_curve_4.svg" width=33%>
 
+## 13. Gosper curves
 
-## 12. Gosper curves
-
-### 12-1. Hexagonal Gosper curve
+### 13-1. Hexagonal Gosper curve
 [code](demo/hexagonal_gosper_curve.py)
 
 #### L-system
@@ -423,7 +443,7 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/hexagonal_gosper_curve_0.svg" width=33%><img src="resource/hexagonal_gosper_curve_1.svg" width=33%><img src="resource/hexagonal_gosper_curve_2.svg" width=33%>
 <img src="resource/hexagonal_gosper_curve_3.svg" width=33%><img src="resource/hexagonal_gosper_curve_4.svg" width=33%><img src="resource/hexagonal_gosper_curve_5.svg" width=33%>
 
-### 12-2. Quadratic Gosper curve
+### 13-2. Quadratic Gosper curve
 [code](demo/quadratic_gosper_curve.py)
 
 #### L-system
@@ -442,7 +462,7 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/quadratic_gosper_curve_0.svg" width=33%><img src="resource/quadratic_gosper_curve_1.svg" width=33%><img src="resource/quadratic_gosper_curve_2.svg" width=33%>
 <img src="resource/quadratic_gosper_curve_3.svg" width=33%>
 
-## 13. Penrose tiling (P3)
+## 14. Penrose tiling (P3)
 [code](demo/penrose_tiling_P3.py)
 
 ### L-system
@@ -472,9 +492,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/penrose_tiling_P3_3.svg" width=33%><img src="resource/penrose_tiling_P3_4.svg" width=33%><img src="resource/penrose_tiling_P3_5.svg" width=33%>
 <img src="resource/penrose_tiling_P3_6.svg" width=33%>
 
-## 14. Pentigrees
+## 15. Pentigrees
 
-### 14-1. Pentigree
+### 15-1. Pentigree
 [code](demo/pentigree.py)
 
 #### L-system
@@ -501,7 +521,7 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 <img src="resource/pentigree_0.svg" width=33%><img src="resource/pentigree_1.svg" width=33%><img src="resource/pentigree_2.svg" width=33%>
 <img src="resource/pentigree_3.svg" width=33%><img src="resource/pentigree_4.svg" width=33%><img src="resource/pentigree_5.svg" width=33%>
 
-### 14-1. Pentadendrite
+### 15-2. Pentadendrite
 [code](demo/pentadendrite.py)
 
 #### L-system
