@@ -93,9 +93,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `[`: pop a pose from the stack, turn 45° to the right
 
 ### Results
-<img src="resource/binary_tree_0.svg" width=33%><img src="resource/binary_tree_1.svg" width=33%><img src="resource/binary_tree_2.svg" width=33%>
-<img src="resource/binary_tree_3.svg" width=33%><img src="resource/binary_tree_4.svg" width=33%><img src="resource/binary_tree_5.svg" width=33%>
-<img src="resource/binary_tree_6.svg" width=33%><img src="resource/binary_tree_7.svg" width=33%>
+<img src="resource/binary_tree_0_preview.png" width=33%><img src="resource/binary_tree_1_preview.png" width=33%><img src="resource/binary_tree_2_preview.png" width=33%>
+<img src="resource/binary_tree_3_preview.png" width=33%><img src="resource/binary_tree_4_preview.png" width=33%><img src="resource/binary_tree_5_preview.png" width=33%>
+<img src="resource/binary_tree_6_preview.png" width=33%><img src="resource/binary_tree_7_preview.png" width=33%>
 
 ## 4. Cantor set
 [code](demo/cantor_set.py)
@@ -111,8 +111,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `f`: go forward without drawing
 
 ### Results
-<img src="resource/cantor_set_0.svg" width=33%><img src="resource/cantor_set_1.svg" width=33%><img src="resource/cantor_set_2.svg" width=33%>
-<img src="resource/cantor_set_3.svg" width=33%><img src="resource/cantor_set_4.svg" width=33%><img src="resource/cantor_set_5.svg" width=33%>
+<img src="resource/cantor_set_0_preview.png" width=33%><img src="resource/cantor_set_1_preview.png" width=33%><img src="resource/cantor_set_2_preview.png" width=33%>
+<img src="resource/cantor_set_3_preview.png" width=33%><img src="resource/cantor_set_4_preview.png" width=33%><img src="resource/cantor_set_5_preview.png" width=33%>
 
 ## 5. Koch curves
 
@@ -130,8 +130,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 60° to the right
 
 #### Results
-<img src="resource/koch_snowflake_0.svg" width=33%><img src="resource/koch_snowflake_1.svg" width=33%><img src="resource/koch_snowflake_2.svg" width=33%>
-<img src="resource/koch_snowflake_3.svg" width=33%><img src="resource/koch_snowflake_4.svg" width=33%><img src="resource/koch_snowflake_5.svg" width=33%>
+<img src="resource/koch_snowflake_0_preview.png" width=33%><img src="resource/koch_snowflake_1_preview.png" width=33%><img src="resource/koch_snowflake_2_preview.png" width=33%>
+<img src="resource/koch_snowflake_3_preview.png" width=33%><img src="resource/koch_snowflake_4_preview.png" width=33%><img src="resource/koch_snowflake_5_preview.png" width=33%>
 
 ### 5-2. Quadratic type 1 curve
 [code](demo/koch_quadratic_1.py)
@@ -147,8 +147,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/koch_quadratic_1_0.svg" width=33%><img src="resource/koch_quadratic_1_1.svg" width=33%><img src="resource/koch_quadratic_1_2.svg" width=33%>
-<img src="resource/koch_quadratic_1_3.svg" width=33%><img src="resource/koch_quadratic_1_4.svg" width=33%><img src="resource/koch_quadratic_1_5.svg" width=33%>
+<img src="resource/koch_quadratic_1_0_preview.png" width=33%><img src="resource/koch_quadratic_1_1_preview.png" width=33%><img src="resource/koch_quadratic_1_2_preview.png" width=33%>
+<img src="resource/koch_quadratic_1_3_preview.png" width=33%><img src="resource/koch_quadratic_1_4_preview.png" width=33%><img src="resource/koch_quadratic_1_5_preview.png" width=33%>
 
 ### 5-3. Quadratic type 2 curve (aka Minkowski sausage)
 [code](demo/koch_quadratic_2.py)
@@ -164,8 +164,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/koch_quadratic_2_0.svg" width=33%><img src="resource/koch_quadratic_2_1.svg" width=33%><img src="resource/koch_quadratic_2_2.svg" width=33%>
-<img src="resource/koch_quadratic_2_3.svg" width=33%><img src="resource/koch_quadratic_2_4.svg" width=33%>
+<img src="resource/koch_quadratic_2_0_preview.png" width=33%><img src="resource/koch_quadratic_2_1_preview.png" width=33%><img src="resource/koch_quadratic_2_2_preview.png" width=33%>
+<img src="resource/koch_quadratic_2_3_preview.png" width=33%><img src="resource/koch_quadratic_2_4_preview.png" width=33%>
 
 ## 6. Sierpiński triangles
 
@@ -185,8 +185,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 120° to the right
 
 #### Results
-<img src="resource/sierpinski_triangle_0.svg" width=33%><img src="resource/sierpinski_triangle_1.svg" width=33%><img src="resource/sierpinski_triangle_2.svg" width=33%>
-<img src="resource/sierpinski_triangle_3.svg" width=33%><img src="resource/sierpinski_triangle_4.svg" width=33%><img src="resource/sierpinski_triangle_5.svg" width=33%>
+<img src="resource/sierpinski_triangle_0_preview.png" width=33%><img src="resource/sierpinski_triangle_1_preview.png" width=33%><img src="resource/sierpinski_triangle_2_preview.png" width=33%>
+<img src="resource/sierpinski_triangle_3_preview.png" width=33%><img src="resource/sierpinski_triangle_4_preview.png" width=33%><img src="resource/sierpinski_triangle_5_preview.png" width=33%>
 
 ### 6-2. Sierpiński arrowhead curve
 [code](demo/sierpinski_arrowhead_curve.py)
@@ -204,9 +204,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 60° to the right
 
 #### Results
-<img src="resource/sierpinski_arrowhead_curve_0.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_1.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_2.svg" width=33%>
-<img src="resource/sierpinski_arrowhead_curve_3.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_4.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_5.svg" width=33%>
-<img src="resource/sierpinski_arrowhead_curve_6.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_7.svg" width=33%><img src="resource/sierpinski_arrowhead_curve_8.svg" width=33%>
+<img src="resource/sierpinski_arrowhead_curve_0_preview.png" width=33%><img src="resource/sierpinski_arrowhead_curve_1_preview.png" width=33%><img src="resource/sierpinski_arrowhead_curve_2_preview.png" width=33%>
+<img src="resource/sierpinski_arrowhead_curve_3_preview.png" width=33%><img src="resource/sierpinski_arrowhead_curve_4_preview.png" width=33%><img src="resource/sierpinski_arrowhead_curve_5_preview.png" width=33%>
+<img src="resource/sierpinski_arrowhead_curve_6_preview.png" width=33%><img src="resource/sierpinski_arrowhead_curve_7_preview.png" width=33%><img src="resource/sierpinski_arrowhead_curve_8_preview.png" width=33%>
 
 ## 7. Sierpiński carpet
 [code](demo/sierpinski_carpet.py)
@@ -225,8 +225,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 120° to the right
 
 ### Results
-<img src="resource/sierpinski_carpet_0.svg" width=33%><img src="resource/sierpinski_carpet_1.svg" width=33%><img src="resource/sierpinski_carpet_2.svg" width=33%>
-<img src="resource/sierpinski_carpet_3.svg" width=33%><img src="resource/sierpinski_carpet_4.svg" width=33%>
+<img src="resource/sierpinski_carpet_0_preview.png" width=33%><img src="resource/sierpinski_carpet_1_preview.png" width=33%><img src="resource/sierpinski_carpet_2_preview.png" width=33%>
+<img src="resource/sierpinski_carpet_3_preview.png" width=33%><img src="resource/sierpinski_carpet_4_preview.png" width=33%>
 
 ## 8. Sierpiński curves
 
@@ -247,8 +247,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 45° to the right
 
 #### Results
-<img src="resource/sierpinski_curve_0.svg" width=33%><img src="resource/sierpinski_curve_1.svg" width=33%><img src="resource/sierpinski_curve_2.svg" width=33%>
-<img src="resource/sierpinski_curve_3.svg" width=33%><img src="resource/sierpinski_curve_4.svg" width=33%><img src="resource/sierpinski_curve_5.svg" width=33%>
+<img src="resource/sierpinski_curve_0_preview.png" width=33%><img src="resource/sierpinski_curve_1_preview.png" width=33%><img src="resource/sierpinski_curve_2_preview.png" width=33%>
+<img src="resource/sierpinski_curve_3_preview.png" width=33%><img src="resource/sierpinski_curve_4_preview.png" width=33%><img src="resource/sierpinski_curve_5_preview.png" width=33%>
 
 ### 8-2. Sierpiński square curve
 [code](demo/sierpinski_square_curve.py)
@@ -266,8 +266,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/sierpinski_square_curve_0.svg" width=33%><img src="resource/sierpinski_square_curve_1.svg" width=33%><img src="resource/sierpinski_square_curve_2.svg" width=33%>
-<img src="resource/sierpinski_square_curve_3.svg" width=33%><img src="resource/sierpinski_square_curve_4.svg" width=33%><img src="resource/sierpinski_square_curve_5.svg" width=33%>
+<img src="resource/sierpinski_square_curve_0_preview.png" width=33%><img src="resource/sierpinski_square_curve_1_preview.png" width=33%><img src="resource/sierpinski_square_curve_2_preview.png" width=33%>
+<img src="resource/sierpinski_square_curve_3_preview.png" width=33%><img src="resource/sierpinski_square_curve_4_preview.png" width=33%><img src="resource/sierpinski_square_curve_5_preview.png" width=33%>
 
 ## 9. Dragon curves
 
@@ -287,11 +287,11 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/heighway_dragon_0.svg" width=33%><img src="resource/heighway_dragon_1.svg" width=33%><img src="resource/heighway_dragon_2.svg" width=33%>
-<img src="resource/heighway_dragon_3.svg" width=33%><img src="resource/heighway_dragon_4.svg" width=33%><img src="resource/heighway_dragon_5.svg" width=33%>
-<img src="resource/heighway_dragon_6.svg" width=33%><img src="resource/heighway_dragon_7.svg" width=33%><img src="resource/heighway_dragon_8.svg" width=33%>
-<img src="resource/heighway_dragon_9.svg" width=33%><img src="resource/heighway_dragon_10.svg" width=33%><img src="resource/heighway_dragon_11.svg" width=33%>
-<img src="resource/heighway_dragon_12.svg" width=33%><img src="resource/heighway_dragon_13.svg" width=33%>
+<img src="resource/heighway_dragon_0_preview.png" width=33%><img src="resource/heighway_dragon_1_preview.png" width=33%><img src="resource/heighway_dragon_2_preview.png" width=33%>
+<img src="resource/heighway_dragon_3_preview.png" width=33%><img src="resource/heighway_dragon_4_preview.png" width=33%><img src="resource/heighway_dragon_5_preview.png" width=33%>
+<img src="resource/heighway_dragon_6_preview.png" width=33%><img src="resource/heighway_dragon_7_preview.png" width=33%><img src="resource/heighway_dragon_8_preview.png" width=33%>
+<img src="resource/heighway_dragon_9_preview.png" width=33%><img src="resource/heighway_dragon_10_preview.png" width=33%><img src="resource/heighway_dragon_11_preview.png" width=33%>
+<img src="resource/heighway_dragon_12_preview.png" width=33%><img src="resource/heighway_dragon_13_preview.png" width=33%>
 
 ### 9-2. Twin dragon
 [code](demo/twin_dragon.py)
@@ -311,11 +311,11 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/twin_dragon_0.svg" width=33%><img src="resource/twin_dragon_1.svg" width=33%><img src="resource/twin_dragon_2.svg" width=33%>
-<img src="resource/twin_dragon_3.svg" width=33%><img src="resource/twin_dragon_4.svg" width=33%><img src="resource/twin_dragon_5.svg" width=33%>
-<img src="resource/twin_dragon_6.svg" width=33%><img src="resource/twin_dragon_7.svg" width=33%><img src="resource/twin_dragon_8.svg" width=33%>
-<img src="resource/twin_dragon_9.svg" width=33%><img src="resource/twin_dragon_10.svg" width=33%><img src="resource/twin_dragon_11.svg" width=33%>
-<img src="resource/twin_dragon_12.svg" width=33%>
+<img src="resource/twin_dragon_0_preview.png" width=33%><img src="resource/twin_dragon_1_preview.png" width=33%><img src="resource/twin_dragon_2_preview.png" width=33%>
+<img src="resource/twin_dragon_3_preview.png" width=33%><img src="resource/twin_dragon_4_preview.png" width=33%><img src="resource/twin_dragon_5_preview.png" width=33%>
+<img src="resource/twin_dragon_6_preview.png" width=33%><img src="resource/twin_dragon_7_preview.png" width=33%><img src="resource/twin_dragon_8_preview.png" width=33%>
+<img src="resource/twin_dragon_9_preview.png" width=33%><img src="resource/twin_dragon_10_preview.png" width=33%><img src="resource/twin_dragon_11_preview.png" width=33%>
+<img src="resource/twin_dragon_12_preview.png" width=33%>
 
 ### 9-3. Terdragon
 [code](demo/terdragon.py)
@@ -334,9 +334,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 120° to the right
 
 #### Results
-<img src="resource/terdragon_0.svg" width=33%><img src="resource/terdragon_1.svg" width=33%><img src="resource/terdragon_2.svg" width=33%>
-<img src="resource/terdragon_3.svg" width=33%><img src="resource/terdragon_4.svg" width=33%><img src="resource/terdragon_5.svg" width=33%>
-<img src="resource/terdragon_6.svg" width=33%><img src="resource/terdragon_7.svg" width=33%>
+<img src="resource/terdragon_0_preview.png" width=33%><img src="resource/terdragon_1_preview.png" width=33%><img src="resource/terdragon_2_preview.png" width=33%>
+<img src="resource/terdragon_3_preview.png" width=33%><img src="resource/terdragon_4_preview.png" width=33%><img src="resource/terdragon_5_preview.png" width=33%>
+<img src="resource/terdragon_6_preview.png" width=33%><img src="resource/terdragon_7_preview.png" width=33%>
 
 ### 9-4. Lévy C curve (aka Lévy dragon)
 [code](demo/levy_c_curve.py)
@@ -353,11 +353,11 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 45° to the right
 
 #### Results
-<img src="resource/levy_c_curve_0.svg" width=33%><img src="resource/levy_c_curve_1.svg" width=33%><img src="resource/levy_c_curve_2.svg" width=33%>
-<img src="resource/levy_c_curve_3.svg" width=33%><img src="resource/levy_c_curve_4.svg" width=33%><img src="resource/levy_c_curve_5.svg" width=33%>
-<img src="resource/levy_c_curve_6.svg" width=33%><img src="resource/levy_c_curve_7.svg" width=33%><img src="resource/levy_c_curve_8.svg" width=33%>
-<img src="resource/levy_c_curve_9.svg" width=33%><img src="resource/levy_c_curve_10.svg" width=33%><img src="resource/levy_c_curve_11.svg" width=33%>
-<img src="resource/levy_c_curve_12.svg" width=33%><img src="resource/levy_c_curve_13.svg" width=33%>
+<img src="resource/levy_c_curve_0_preview.png" width=33%><img src="resource/levy_c_curve_1_preview.png" width=33%><img src="resource/levy_c_curve_2_preview.png" width=33%>
+<img src="resource/levy_c_curve_3_preview.png" width=33%><img src="resource/levy_c_curve_4_preview.png" width=33%><img src="resource/levy_c_curve_5_preview.png" width=33%>
+<img src="resource/levy_c_curve_6_preview.png" width=33%><img src="resource/levy_c_curve_7_preview.png" width=33%><img src="resource/levy_c_curve_8_preview.png" width=33%>
+<img src="resource/levy_c_curve_9_preview.png" width=33%><img src="resource/levy_c_curve_10_preview.png" width=33%><img src="resource/levy_c_curve_11_preview.png" width=33%>
+<img src="resource/levy_c_curve_12_preview.png" width=33%><img src="resource/levy_c_curve_13_preview.png" width=33%>
 
 ## 10. Fractal plant
 [code](demo/fractal_plant.py)
@@ -377,9 +377,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `]`: pop a pose from the stack
 
 ### Results
-<img src="resource/fractal_plant_0.svg" width=33%><img src="resource/fractal_plant_1.svg" width=33%><img src="resource/fractal_plant_2.svg" width=33%>
-<img src="resource/fractal_plant_3.svg" width=33%><img src="resource/fractal_plant_4.svg" width=33%><img src="resource/fractal_plant_5.svg" width=33%>
-<img src="resource/fractal_plant_6.svg" width=33%><img src="resource/fractal_plant_7.svg" width=33%>
+<img src="resource/fractal_plant_0_preview.png" width=33%><img src="resource/fractal_plant_1_preview.png" width=33%><img src="resource/fractal_plant_2_preview.png" width=33%>
+<img src="resource/fractal_plant_3_preview.png" width=33%><img src="resource/fractal_plant_4_preview.png" width=33%><img src="resource/fractal_plant_5_preview.png" width=33%>
+<img src="resource/fractal_plant_6_preview.png" width=33%><img src="resource/fractal_plant_7_preview.png" width=33%>
 
 ## 11. Hilbert curve
 [code](demo/hilbert_curve.py)
@@ -398,9 +398,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 ### Results
-<img src="resource/hilbert_curve_0.svg" width=33%><img src="resource/hilbert_curve_1.svg" width=33%><img src="resource/hilbert_curve_2.svg" width=33%>
-<img src="resource/hilbert_curve_3.svg" width=33%><img src="resource/hilbert_curve_4.svg" width=33%><img src="resource/hilbert_curve_5.svg" width=33%>
-<img src="resource/hilbert_curve_6.svg" width=33%><img src="resource/hilbert_curve_7.svg" width=33%>
+<img src="resource/hilbert_curve_0_preview.png" width=33%><img src="resource/hilbert_curve_1_preview.png" width=33%><img src="resource/hilbert_curve_2_preview.png" width=33%>
+<img src="resource/hilbert_curve_3_preview.png" width=33%><img src="resource/hilbert_curve_4_preview.png" width=33%><img src="resource/hilbert_curve_5_preview.png" width=33%>
+<img src="resource/hilbert_curve_6_preview.png" width=33%><img src="resource/hilbert_curve_7_preview.png" width=33%>
 
 ## 12. Peano curve
 [code](demo/peano_curve.py)
@@ -419,8 +419,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 ### Results
-<img src="resource/peano_curve_0.svg" width=33%><img src="resource/peano_curve_1.svg" width=33%><img src="resource/peano_curve_2.svg" width=33%>
-<img src="resource/peano_curve_3.svg" width=33%><img src="resource/peano_curve_4.svg" width=33%>
+<img src="resource/peano_curve_0_preview.png" width=33%><img src="resource/peano_curve_1_preview.png" width=33%><img src="resource/peano_curve_2_preview.png" width=33%>
+<img src="resource/peano_curve_3_preview.png" width=33%><img src="resource/peano_curve_4_preview.png" width=33%>
 
 ## 13. Gosper curves
 
@@ -440,8 +440,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 60° to the right
 
 #### Results
-<img src="resource/hexagonal_gosper_curve_0.svg" width=33%><img src="resource/hexagonal_gosper_curve_1.svg" width=33%><img src="resource/hexagonal_gosper_curve_2.svg" width=33%>
-<img src="resource/hexagonal_gosper_curve_3.svg" width=33%><img src="resource/hexagonal_gosper_curve_4.svg" width=33%><img src="resource/hexagonal_gosper_curve_5.svg" width=33%>
+<img src="resource/hexagonal_gosper_curve_0_preview.png" width=33%><img src="resource/hexagonal_gosper_curve_1_preview.png" width=33%><img src="resource/hexagonal_gosper_curve_2_preview.png" width=33%>
+<img src="resource/hexagonal_gosper_curve_3_preview.png" width=33%><img src="resource/hexagonal_gosper_curve_4_preview.png" width=33%><img src="resource/hexagonal_gosper_curve_5_preview.png" width=33%>
 
 ### 13-2. Quadratic Gosper curve
 [code](demo/quadratic_gosper_curve.py)
@@ -459,8 +459,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 90° to the right
 
 #### Results
-<img src="resource/quadratic_gosper_curve_0.svg" width=33%><img src="resource/quadratic_gosper_curve_1.svg" width=33%><img src="resource/quadratic_gosper_curve_2.svg" width=33%>
-<img src="resource/quadratic_gosper_curve_3.svg" width=33%>
+<img src="resource/quadratic_gosper_curve_0_preview.png" width=33%><img src="resource/quadratic_gosper_curve_1_preview.png" width=33%><img src="resource/quadratic_gosper_curve_2_preview.png" width=33%>
+<img src="resource/quadratic_gosper_curve_3_preview.png" width=33%>
 
 ## 14. Penrose tiling (P3)
 [code](demo/penrose_tiling_P3.py)
@@ -488,9 +488,9 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `]`: pop a pose from the stack
 
 ### Results
-<img src="resource/penrose_tiling_P3_0.svg" width=33%><img src="resource/penrose_tiling_P3_1.svg" width=33%><img src="resource/penrose_tiling_P3_2.svg" width=33%>
-<img src="resource/penrose_tiling_P3_3.svg" width=33%><img src="resource/penrose_tiling_P3_4.svg" width=33%><img src="resource/penrose_tiling_P3_5.svg" width=33%>
-<img src="resource/penrose_tiling_P3_6.svg" width=33%>
+<img src="resource/penrose_tiling_P3_0_preview.png" width=33%><img src="resource/penrose_tiling_P3_1_preview.png" width=33%><img src="resource/penrose_tiling_P3_2_preview.png" width=33%>
+<img src="resource/penrose_tiling_P3_3_preview.png" width=33%><img src="resource/penrose_tiling_P3_4_preview.png" width=33%><img src="resource/penrose_tiling_P3_5_preview.png" width=33%>
+<img src="resource/penrose_tiling_P3_6_preview.png" width=33%>
 
 ## 15. Pentigrees
 
@@ -518,8 +518,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 36° to the right
 
 #### Results
-<img src="resource/pentigree_0.svg" width=33%><img src="resource/pentigree_1.svg" width=33%><img src="resource/pentigree_2.svg" width=33%>
-<img src="resource/pentigree_3.svg" width=33%><img src="resource/pentigree_4.svg" width=33%><img src="resource/pentigree_5.svg" width=33%>
+<img src="resource/pentigree_0_preview.png" width=33%><img src="resource/pentigree_1_preview.png" width=33%><img src="resource/pentigree_2_preview.png" width=33%>
+<img src="resource/pentigree_3_preview.png" width=33%><img src="resource/pentigree_4_preview.png" width=33%><img src="resource/pentigree_5_preview.png" width=33%>
 
 ### 15-2. Pentadendrite
 [code](demo/pentadendrite.py)
@@ -545,8 +545,8 @@ n = 6: 0110100110010110100101100110100110010110011010010110100110010110
 - `-`: turn 72° to the right
 
 #### Results
-<img src="resource/pentadendrite_0.svg" width=33%><img src="resource/pentadendrite_1.svg" width=33%><img src="resource/pentadendrite_2.svg" width=33%>
-<img src="resource/pentadendrite_3.svg" width=33%><img src="resource/pentadendrite_4.svg" width=33%><img src="resource/pentadendrite_5.svg" width=33%>
+<img src="resource/pentadendrite_0_preview.png" width=33%><img src="resource/pentadendrite_1_preview.png" width=33%><img src="resource/pentadendrite_2_preview.png" width=33%>
+<img src="resource/pentadendrite_3_preview.png" width=33%><img src="resource/pentadendrite_4_preview.png" width=33%><img src="resource/pentadendrite_5_preview.png" width=33%>
 
 ## References
 - Przemyslaw Prusinkiewicz and Aristid Lindenmayer. *The Algorithmic Beauty of Plants*, Springer-Verlag, 1990.
